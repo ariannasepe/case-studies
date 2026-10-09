@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Urban Fitness",
+        "tipo": "palazzetto",
+        "capacity": "",
+        "website": "https://www.urbanfitness.it/",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5738252,
+          44.0441532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Cinema Fulgor",
+        "tipo": "cinema",
+        "capacity": "",
+        "website": "https://www.cinemafulgor.com/",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5658917,
+          44.0615617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "A. Marvelli",
+        "tipo": "teatro",
+        "capacity": "",
+        "website": "",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5216166,
+          44.0547283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Centro congressi SGR",
+        "tipo": "centro_congressi",
+        "capacity": "",
+        "website": "https://www.centrocongressisgr.it/",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5946843,
+          44.0474072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Cinema Tiberio",
+        "tipo": "cinema",
+        "capacity": "",
+        "website": "",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5625393,
+          44.0648736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Multiplex Le Befane",
+        "tipo": "cinema",
+        "capacity": "",
+        "website": "https://www.giomettirealestatecinema.it/cinema",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5861528,
+          44.0406392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Teatro degli Atti",
+        "tipo": "teatro",
+        "capacity": "",
+        "website": "",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5653942,
+          44.0591844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ritorno all'Astoria",
+        "tipo": "centro_arte",
+        "capacity": "",
+        "website": "",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5646941,
+          44.0462402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Corte degli Agostiniani",
+        "tipo": "teatro",
+        "capacity": "",
+        "website": "",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5657779,
+          44.059208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Stadio dei Pirati \"Rino Zangheri\"",
+        "tipo": "stadio",
+        "capacity": "",
+        "website": "",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5383371,
+          44.0621609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Palacongressi di Rimini",
+        "tipo": "centro_congressi",
+        "capacity": "",
+        "website": "https://www.riminipalacongressi.it/",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5670607,
+          44.0505424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Centro Andrej Tarkovskij",
+        "tipo": "teatro",
+        "capacity": "659",
+        "website": "https://riminiturismo.it/guida-pratica/fiere-e-congressi/centro-andrej-tarkovskij",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5694232,
+          44.0714196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Teatro Edimar",
+        "tipo": "teatro",
+        "capacity": "",
+        "website": "",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5393247,
+          44.0821878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Cinema Multisala Settebello",
+        "tipo": "cinema",
+        "capacity": "",
+        "website": "https://www.cinemasettebello.it/",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5766048,
+          44.060935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Teatro Amintore Galli",
+        "tipo": "teatro",
+        "capacity": "",
+        "website": "https://www.teatrogalli.it/",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.564865,
+          44.0601667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Stadium",
+        "tipo": "stadio",
+        "capacity": "",
+        "website": "",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5814981,
+          44.0397239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Stadio Romeo Neri",
+        "tipo": "stadio",
+        "capacity": "6594",
+        "website": "",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5770844,
+          44.0529504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Piazza Francesca da Rimini",
+        "tipo": "teatro",
+        "capacity": "",
+        "website": "",
+        "fonte": "OpenStreetMap 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.563124,
+          44.0600297
+        ]
+      }
+    }
+  ]
+}

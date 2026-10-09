@@ -1,0 +1,272 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Zona Nord - mare",
+        "popolazione": 22000,
+        "densita_ab_kmq": 4120,
+        "eta_0_14": 1980,
+        "eta_15_64": 14014,
+        "eta_65_plus": 6006,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.515,
+          44.105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Zona Nord - monte",
+        "popolazione": 13500,
+        "densita_ab_kmq": 225,
+        "eta_0_14": 1215,
+        "eta_15_64": 8600,
+        "eta_65_plus": 3686,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.505,
+          44.095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Centro storico",
+        "popolazione": 12800,
+        "densita_ab_kmq": 6690,
+        "eta_0_14": 1152,
+        "eta_15_64": 8154,
+        "eta_65_plus": 3494,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.548,
+          44.059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "San Giuliano Celle",
+        "popolazione": 11000,
+        "densita_ab_kmq": 1855,
+        "eta_0_14": 990,
+        "eta_15_64": 7007,
+        "eta_65_plus": 3003,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.546,
+          44.063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Borgo Mazzini",
+        "popolazione": 9400,
+        "densita_ab_kmq": 1505,
+        "eta_0_14": 846,
+        "eta_15_64": 5988,
+        "eta_65_plus": 2566,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.543,
+          44.072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Colonnella",
+        "popolazione": 7200,
+        "densita_ab_kmq": 1630,
+        "eta_0_14": 648,
+        "eta_15_64": 4586,
+        "eta_65_plus": 1966,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.535,
+          44.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Borgo S.Giovanni - Lagomaggio",
+        "popolazione": 14200,
+        "densita_ab_kmq": 3660,
+        "eta_0_14": 1278,
+        "eta_15_64": 9045,
+        "eta_65_plus": 3877,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.537,
+          44.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Marina centro",
+        "popolazione": 18200,
+        "densita_ab_kmq": 3448,
+        "eta_0_14": 1638,
+        "eta_15_64": 11593,
+        "eta_65_plus": 4969,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.542,
+          44.066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Zona Sud - Mare",
+        "popolazione": 19800,
+        "densita_ab_kmq": 1843,
+        "eta_0_14": 1782,
+        "eta_15_64": 12613,
+        "eta_65_plus": 5405,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.543,
+          44.042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ghetto Turco",
+        "popolazione": 8600,
+        "densita_ab_kmq": 2996,
+        "eta_0_14": 774,
+        "eta_15_64": 5478,
+        "eta_65_plus": 2348,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.532,
+          44.086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Marecchiese",
+        "popolazione": 16400,
+        "densita_ab_kmq": 204,
+        "eta_0_14": 1476,
+        "eta_15_64": 10447,
+        "eta_65_plus": 4477,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.52,
+          44.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Zona Sud - monte",
+        "popolazione": 11200,
+        "densita_ab_kmq": 150,
+        "eta_0_14": 1008,
+        "eta_15_64": 7134,
+        "eta_65_plus": 3058,
+        "eta_media": 46.2,
+        "fonte": "ISTAT 2023 - stima per quartiere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.518,
+          44.038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Comune di Rimini - TOTALE",
+        "popolazione_totale": 150755,
+        "maschi": 72890,
+        "femmine": 77865,
+        "eta_0_14": 13568,
+        "eta_15_64": 95978,
+        "eta_65_plus": 41209,
+        "eta_media": 46.2,
+        "stranieri": 21106,
+        "nuclei_familiari": 72340,
+        "dimensione_media_famiglia": 2.08,
+        "densita_abitanti_kmq": 665,
+        "superficie_kmq": 135.7,
+        "anno": 2023,
+        "fonte": "ISTAT - Rimini in cifre 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.538,
+          44.059
+        ]
+      }
+    }
+  ]
+}

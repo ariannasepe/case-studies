@@ -1,0 +1,7595 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2326651738,
+        "tipo": "colonnina_ricarica",
+        "name": "DINAclub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5485288,
+          44.081101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2401540689,
+        "tipo": "colonnina_ricarica",
+        "name": "Enel - stazione di ricarica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5767399,
+          44.048616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2401541050,
+        "tipo": "colonnina_ricarica",
+        "name": "Enel - stazione di ricarica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5767356,
+          44.0485829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2401541133,
+        "tipo": "colonnina_ricarica",
+        "name": "Enel - stazione di ricarica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.578665,
+          44.071095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2401541444,
+        "tipo": "colonnina_ricarica",
+        "name": "Enel - stazione di ricarica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565892,
+          44.04849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2401541445,
+        "tipo": "colonnina_ricarica",
+        "name": "Enel - stazione di ricarica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565758,
+          44.048546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2401541691,
+        "tipo": "colonnina_ricarica",
+        "name": "Enel - stazione di ricarica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.552288,
+          44.05443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2401541700,
+        "tipo": "colonnina_ricarica",
+        "name": "Enel - stazione di ricarica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.602251,
+          44.048702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2401541789,
+        "tipo": "colonnina_ricarica",
+        "name": "Enel - stazione di ricarica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.573035,
+          44.06399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718127688,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5911193,
+          44.0456058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5805352164,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5776809,
+          44.071088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7727356381,
+        "tipo": "cabina_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5695174,
+          44.0745652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8640204817,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5845913,
+          44.0400438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8809936664,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5276676,
+          44.0685373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10068247189,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.576526,
+          44.0595351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10657916361,
+        "tipo": "colonnina_ricarica",
+        "name": "Rimini Supercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5892779,
+          44.0406892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10728531155,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5764999,
+          44.0595208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10951208632,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5404258,
+          44.053897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10951208633,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5240264,
+          44.0547305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11075255413,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5914023,
+          44.0372576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11196352260,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5512814,
+          44.0788244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11669388669,
+        "tipo": "colonnina_ricarica",
+        "name": "Charge Point - Pradella Sistemi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.52628,
+          44.07451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12951083421,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6024048,
+          44.0485952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12981591627,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60552,
+          44.0320074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12981591628,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.605494,
+          44.0321132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13064821014,
+        "tipo": "colonnina_ricarica",
+        "name": "Enel X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5137874,
+          44.089457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13534578677,
+        "tipo": "colonnina_ricarica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5207526,
+          44.0720524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 143585004,
+        "tipo": "cabina_elettrica",
+        "name": "San Martino in XX"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5071622,
+              44.0114563
+            ],
+            [
+              12.5070934,
+              44.0115105
+            ],
+            [
+              12.5071135,
+              44.01155
+            ],
+            [
+              12.5069627,
+              44.0116875
+            ],
+            [
+              12.5068984,
+              44.0117272
+            ],
+            [
+              12.5065337,
+              44.0120344
+            ],
+            [
+              12.5064366,
+              44.0121237
+            ],
+            [
+              12.5061789,
+              44.0123321
+            ],
+            [
+              12.5066225,
+              44.0126063
+            ],
+            [
+              12.506685,
+              44.012542
+            ],
+            [
+              12.5084263,
+              44.0136033
+            ],
+            [
+              12.5091998,
+              44.0140755
+            ],
+            [
+              12.5094085,
+              44.0140634
+            ],
+            [
+              12.510112,
+              44.0134721
+            ],
+            [
+              12.5098052,
+              44.012498
+            ],
+            [
+              12.5081051,
+              44.0114512
+            ],
+            [
+              12.5076987,
+              44.0117847
+            ],
+            [
+              12.5071622,
+              44.0114563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 143593632,
+        "tipo": "cabina_elettrica",
+        "name": "Rimini Nord"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5070105,
+              44.0719519
+            ],
+            [
+              12.5072619,
+              44.070955
+            ],
+            [
+              12.5076703,
+              44.0709587
+            ],
+            [
+              12.5076441,
+              44.0719971
+            ],
+            [
+              12.5071414,
+              44.0719858
+            ],
+            [
+              12.5070105,
+              44.0719519
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 143600715,
+        "tipo": "cabina_elettrica",
+        "name": "Rimini Sud"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5778511,
+              44.0279898
+            ],
+            [
+              12.5769089,
+              44.0274494
+            ],
+            [
+              12.5768686,
+              44.0272886
+            ],
+            [
+              12.5767109,
+              44.02717
+            ],
+            [
+              12.5771325,
+              44.0267878
+            ],
+            [
+              12.5776605,
+              44.0269934
+            ],
+            [
+              12.5777008,
+              44.0272306
+            ],
+            [
+              12.5783094,
+              44.0275733
+            ],
+            [
+              12.5778511,
+              44.0279898
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152975900,
+        "tipo": "centrale_elettrica",
+        "name": "Parcheggio Fiabilandia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6086048,
+              44.0331592
+            ],
+            [
+              12.6083163,
+              44.0332217
+            ],
+            [
+              12.6080918,
+              44.0331722
+            ],
+            [
+              12.6076785,
+              44.0329477
+            ],
+            [
+              12.607622,
+              44.0329157
+            ],
+            [
+              12.6073296,
+              44.0327502
+            ],
+            [
+              12.607076,
+              44.0326066
+            ],
+            [
+              12.6069862,
+              44.0325557
+            ],
+            [
+              12.6069001,
+              44.0324483
+            ],
+            [
+              12.6068769,
+              44.0323002
+            ],
+            [
+              12.606936,
+              44.0321175
+            ],
+            [
+              12.6076499,
+              44.0316282
+            ],
+            [
+              12.6077658,
+              44.0314717
+            ],
+            [
+              12.607802,
+              44.0313337
+            ],
+            [
+              12.6079035,
+              44.0312786
+            ],
+            [
+              12.6080338,
+              44.0312712
+            ],
+            [
+              12.6081535,
+              44.0313401
+            ],
+            [
+              12.6098167,
+              44.0323214
+            ],
+            [
+              12.6096514,
+              44.0324396
+            ],
+            [
+              12.6090914,
+              44.0328398
+            ],
+            [
+              12.6090149,
+              44.03289
+            ],
+            [
+              12.6086048,
+              44.0331592
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223808283,
+        "tipo": "cabina_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5970845,
+              44.0367214
+            ],
+            [
+              12.5971156,
+              44.0367386
+            ],
+            [
+              12.5971386,
+              44.0367171
+            ],
+            [
+              12.5971076,
+              44.0366999
+            ],
+            [
+              12.5970845,
+              44.0367214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 354254176,
+        "tipo": "cabina_elettrica",
+        "name": "Rimini Condotti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5559513,
+              44.0575293
+            ],
+            [
+              12.5552912,
+              44.0575096
+            ],
+            [
+              12.5552514,
+              44.0581267
+            ],
+            [
+              12.5559418,
+              44.0581418
+            ],
+            [
+              12.5559795,
+              44.0575576
+            ],
+            [
+              12.5559513,
+              44.0575293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 365519613,
+        "tipo": "cabina_elettrica",
+        "name": "San Martino in XX CP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5081051,
+              44.0114512
+            ],
+            [
+              12.5076987,
+              44.0117847
+            ],
+            [
+              12.5071622,
+              44.0114563
+            ],
+            [
+              12.5070161,
+              44.0113711
+            ],
+            [
+              12.5070018,
+              44.0111823
+            ],
+            [
+              12.5073281,
+              44.0109375
+            ],
+            [
+              12.5074463,
+              44.0109644
+            ],
+            [
+              12.5076168,
+              44.011069
+            ],
+            [
+              12.5077367,
+              44.0111041
+            ],
+            [
+              12.5081837,
+              44.0113822
+            ],
+            [
+              12.5081051,
+              44.0114512
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 519647181,
+        "tipo": "cabina_elettrica",
+        "name": "Pietrarubbia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5212142,
+              44.0555665
+            ],
+            [
+              12.521214,
+              44.0555199
+            ],
+            [
+              12.5212717,
+              44.0555197
+            ],
+            [
+              12.521272,
+              44.0555663
+            ],
+            [
+              12.5212142,
+              44.0555665
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289375,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.607622,
+              44.0329157
+            ],
+            [
+              12.6076249,
+              44.0327837
+            ],
+            [
+              12.6083929,
+              44.032771
+            ],
+            [
+              12.6083929,
+              44.0329084
+            ],
+            [
+              12.607622,
+              44.0329157
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289376,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6073296,
+              44.0327502
+            ],
+            [
+              12.6073205,
+              44.0326336
+            ],
+            [
+              12.6084991,
+              44.032626
+            ],
+            [
+              12.6085026,
+              44.0327481
+            ],
+            [
+              12.6073296,
+              44.0327502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289377,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.607076,
+              44.0326066
+            ],
+            [
+              12.6070728,
+              44.032486
+            ],
+            [
+              12.6082266,
+              44.0324784
+            ],
+            [
+              12.6082266,
+              44.0325954
+            ],
+            [
+              12.607076,
+              44.0326066
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289378,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6069772,
+              44.0324428
+            ],
+            [
+              12.6069772,
+              44.0323232
+            ],
+            [
+              12.6079859,
+              44.032313
+            ],
+            [
+              12.6079965,
+              44.0324351
+            ],
+            [
+              12.6069772,
+              44.0324428
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289379,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6069985,
+              44.0322875
+            ],
+            [
+              12.6069949,
+              44.0321756
+            ],
+            [
+              12.6077523,
+              44.0321578
+            ],
+            [
+              12.6077523,
+              44.0322748
+            ],
+            [
+              12.6069985,
+              44.0322875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289380,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6072002,
+              44.0321298
+            ],
+            [
+              12.6071967,
+              44.0320102
+            ],
+            [
+              12.6075541,
+              44.0320127
+            ],
+            [
+              12.6075612,
+              44.0321221
+            ],
+            [
+              12.6072002,
+              44.0321298
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289381,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6089733,
+              44.0327583
+            ],
+            [
+              12.6089698,
+              44.0326438
+            ],
+            [
+              12.6091715,
+              44.0326361
+            ],
+            [
+              12.6091822,
+              44.0327456
+            ],
+            [
+              12.6089733,
+              44.0327583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289382,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6086477,
+              44.032604
+            ],
+            [
+              12.6086477,
+              44.0324844
+            ],
+            [
+              12.6094704,
+              44.0324777
+            ],
+            [
+              12.6094716,
+              44.0325938
+            ],
+            [
+              12.6086477,
+              44.032604
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289383,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6084937,
+              44.0324467
+            ],
+            [
+              12.6084845,
+              44.0323338
+            ],
+            [
+              12.6096337,
+              44.0323271
+            ],
+            [
+              12.6096514,
+              44.0324396
+            ],
+            [
+              12.6084937,
+              44.0324467
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289384,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6082595,
+              44.0322983
+            ],
+            [
+              12.6082534,
+              44.0321765
+            ],
+            [
+              12.6094057,
+              44.0321676
+            ],
+            [
+              12.6094026,
+              44.0322872
+            ],
+            [
+              12.6082595,
+              44.0322983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289385,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6080069,
+              44.0321433
+            ],
+            [
+              12.6080007,
+              44.0320214
+            ],
+            [
+              12.6091623,
+              44.0320104
+            ],
+            [
+              12.6091684,
+              44.0321366
+            ],
+            [
+              12.6080069,
+              44.0321433
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289386,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6077697,
+              44.0319949
+            ],
+            [
+              12.6077604,
+              44.031873
+            ],
+            [
+              12.6089158,
+              44.0318619
+            ],
+            [
+              12.608925,
+              44.0319771
+            ],
+            [
+              12.6077697,
+              44.0319949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289387,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.607782,
+              44.031842
+            ],
+            [
+              12.6077697,
+              44.031718
+            ],
+            [
+              12.6086693,
+              44.0317091
+            ],
+            [
+              12.6086693,
+              44.0318331
+            ],
+            [
+              12.607782,
+              44.031842
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289388,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6078528,
+              44.0316869
+            ],
+            [
+              12.6078467,
+              44.0315695
+            ],
+            [
+              12.6084598,
+              44.0315607
+            ],
+            [
+              12.6084567,
+              44.0316781
+            ],
+            [
+              12.6078528,
+              44.0316869
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 520289389,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6079268,
+              44.0314123
+            ],
+            [
+              12.6082195,
+              44.0314056
+            ],
+            [
+              12.6082226,
+              44.0315297
+            ],
+            [
+              12.6079329,
+              44.0315341
+            ],
+            [
+              12.6079268,
+              44.0314123
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1018627233,
+        "tipo": "centrale_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5462689,
+              44.0101447
+            ],
+            [
+              12.5479109,
+              44.0094951
+            ],
+            [
+              12.5483994,
+              44.0097986
+            ],
+            [
+              12.5480505,
+              44.0101067
+            ],
+            [
+              12.5478046,
+              44.0104477
+            ],
+            [
+              12.5475832,
+              44.0108306
+            ],
+            [
+              12.5462689,
+              44.0101447
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806726,
+        "tipo": "centrale_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5185518,
+              44.0929553
+            ],
+            [
+              12.5192241,
+              44.0926403
+            ],
+            [
+              12.5200334,
+              44.0933808
+            ],
+            [
+              12.5199533,
+              44.0935394
+            ],
+            [
+              12.5196839,
+              44.0937223
+            ],
+            [
+              12.5196509,
+              44.0937046
+            ],
+            [
+              12.5194767,
+              44.0938061
+            ],
+            [
+              12.5185518,
+              44.0929553
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806727,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.519731,
+              44.0935568
+            ],
+            [
+              12.5198477,
+              44.0935555
+            ],
+            [
+              12.5198473,
+              44.0935411
+            ],
+            [
+              12.5197307,
+              44.0935424
+            ],
+            [
+              12.519731,
+              44.0935568
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806728,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5195583,
+              44.0935253
+            ],
+            [
+              12.5199077,
+              44.0935231
+            ],
+            [
+              12.5199075,
+              44.0935084
+            ],
+            [
+              12.5195581,
+              44.0935107
+            ],
+            [
+              12.5195583,
+              44.0935253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806729,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5194135,
+              44.0934918
+            ],
+            [
+              12.5199201,
+              44.0934903
+            ],
+            [
+              12.51992,
+              44.0934767
+            ],
+            [
+              12.5194135,
+              44.0934782
+            ],
+            [
+              12.5194135,
+              44.0934918
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806730,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5193145,
+              44.0934596
+            ],
+            [
+              12.5199369,
+              44.0934569
+            ],
+            [
+              12.5199367,
+              44.0934424
+            ],
+            [
+              12.5193144,
+              44.0934452
+            ],
+            [
+              12.5193145,
+              44.0934596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806731,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5191218,
+              44.0934277
+            ],
+            [
+              12.5199782,
+              44.0934245
+            ],
+            [
+              12.519978,
+              44.0934092
+            ],
+            [
+              12.5191217,
+              44.0934126
+            ],
+            [
+              12.5191218,
+              44.0934277
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806732,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5190622,
+              44.0933943
+            ],
+            [
+              12.5199985,
+              44.0933903
+            ],
+            [
+              12.5199984,
+              44.0933751
+            ],
+            [
+              12.519062,
+              44.0933791
+            ],
+            [
+              12.5190622,
+              44.0933943
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806733,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5190255,
+              44.0933617
+            ],
+            [
+              12.5199597,
+              44.0933592
+            ],
+            [
+              12.5199596,
+              44.0933446
+            ],
+            [
+              12.5190254,
+              44.0933472
+            ],
+            [
+              12.5190255,
+              44.0933617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806734,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5189875,
+              44.0933289
+            ],
+            [
+              12.5199218,
+              44.0933265
+            ],
+            [
+              12.5199217,
+              44.0933118
+            ],
+            [
+              12.5189875,
+              44.0933144
+            ],
+            [
+              12.5189875,
+              44.0933289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806735,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5189529,
+              44.0932968
+            ],
+            [
+              12.5198871,
+              44.0932943
+            ],
+            [
+              12.519887,
+              44.0932797
+            ],
+            [
+              12.5189528,
+              44.0932823
+            ],
+            [
+              12.5189529,
+              44.0932968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806736,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5189154,
+              44.0932637
+            ],
+            [
+              12.5198496,
+              44.0932613
+            ],
+            [
+              12.5198495,
+              44.0932466
+            ],
+            [
+              12.5189153,
+              44.0932492
+            ],
+            [
+              12.5189154,
+              44.0932637
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806737,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5188789,
+              44.0932304
+            ],
+            [
+              12.5198131,
+              44.0932279
+            ],
+            [
+              12.519813,
+              44.0932132
+            ],
+            [
+              12.5188788,
+              44.0932158
+            ],
+            [
+              12.5188789,
+              44.0932304
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806738,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5188409,
+              44.0931989
+            ],
+            [
+              12.5197751,
+              44.0931964
+            ],
+            [
+              12.5197751,
+              44.0931817
+            ],
+            [
+              12.5188409,
+              44.0931843
+            ],
+            [
+              12.5188409,
+              44.0931989
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806739,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.518769,
+              44.093133
+            ],
+            [
+              12.5197032,
+              44.0931305
+            ],
+            [
+              12.5197031,
+              44.0931158
+            ],
+            [
+              12.5187689,
+              44.0931184
+            ],
+            [
+              12.518769,
+              44.093133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806740,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5188068,
+              44.0931651
+            ],
+            [
+              12.519741,
+              44.0931626
+            ],
+            [
+              12.5197409,
+              44.0931479
+            ],
+            [
+              12.5188067,
+              44.0931505
+            ],
+            [
+              12.5188068,
+              44.0931651
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806741,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.518732,
+              44.0931
+            ],
+            [
+              12.5196662,
+              44.0930976
+            ],
+            [
+              12.5196661,
+              44.0930829
+            ],
+            [
+              12.5187319,
+              44.0930855
+            ],
+            [
+              12.518732,
+              44.0931
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806742,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5186567,
+              44.0930341
+            ],
+            [
+              12.5195909,
+              44.0930316
+            ],
+            [
+              12.5195908,
+              44.093017
+            ],
+            [
+              12.5186566,
+              44.0930195
+            ],
+            [
+              12.5186567,
+              44.0930341
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806743,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5186953,
+              44.0930671
+            ],
+            [
+              12.5196295,
+              44.0930646
+            ],
+            [
+              12.5196294,
+              44.0930499
+            ],
+            [
+              12.5186952,
+              44.0930525
+            ],
+            [
+              12.5186953,
+              44.0930671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806744,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5186189,
+              44.0930029
+            ],
+            [
+              12.5195531,
+              44.0930005
+            ],
+            [
+              12.5195531,
+              44.0929858
+            ],
+            [
+              12.5186189,
+              44.0929884
+            ],
+            [
+              12.5186189,
+              44.0930029
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806745,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.518584,
+              44.0929688
+            ],
+            [
+              12.5195182,
+              44.0929664
+            ],
+            [
+              12.5195182,
+              44.0929517
+            ],
+            [
+              12.518584,
+              44.0929543
+            ],
+            [
+              12.518584,
+              44.0929688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806746,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5186669,
+              44.0929349
+            ],
+            [
+              12.5194855,
+              44.0929324
+            ],
+            [
+              12.5194854,
+              44.0929182
+            ],
+            [
+              12.5186669,
+              44.0929208
+            ],
+            [
+              12.5186669,
+              44.0929349
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806747,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5188275,
+              44.0928705
+            ],
+            [
+              12.5194107,
+              44.0928661
+            ],
+            [
+              12.5194105,
+              44.0928517
+            ],
+            [
+              12.5188273,
+              44.0928562
+            ],
+            [
+              12.5188275,
+              44.0928705
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806748,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5187469,
+              44.0929029
+            ],
+            [
+              12.5194493,
+              44.0928994
+            ],
+            [
+              12.5194492,
+              44.0928847
+            ],
+            [
+              12.5187468,
+              44.0928883
+            ],
+            [
+              12.5187469,
+              44.0929029
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806749,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5189068,
+              44.0928362
+            ],
+            [
+              12.5193738,
+              44.0928338
+            ],
+            [
+              12.5193736,
+              44.0928196
+            ],
+            [
+              12.5189066,
+              44.0928221
+            ],
+            [
+              12.5189068,
+              44.0928362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806750,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5189891,
+              44.092803
+            ],
+            [
+              12.5193415,
+              44.0927998
+            ],
+            [
+              12.5193413,
+              44.0927854
+            ],
+            [
+              12.5189888,
+              44.0927887
+            ],
+            [
+              12.5189891,
+              44.092803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1117806751,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5190687,
+              44.0927699
+            ],
+            [
+              12.519308,
+              44.0927681
+            ],
+            [
+              12.5193078,
+              44.0927547
+            ],
+            [
+              12.5190685,
+              44.0927564
+            ],
+            [
+              12.5190687,
+              44.0927699
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181024,
+        "tipo": "centrale_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5140344,
+              44.0474805
+            ],
+            [
+              12.5141444,
+              44.0470573
+            ],
+            [
+              12.5146806,
+              44.0471293
+            ],
+            [
+              12.5145706,
+              44.0475525
+            ],
+            [
+              12.5140344,
+              44.0474805
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181025,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5140873,
+              44.0474569
+            ],
+            [
+              12.5140904,
+              44.0474419
+            ],
+            [
+              12.514532,
+              44.0474894
+            ],
+            [
+              12.5145289,
+              44.0475044
+            ],
+            [
+              12.5140873,
+              44.0474569
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181026,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5140947,
+              44.0474249
+            ],
+            [
+              12.5140978,
+              44.0474099
+            ],
+            [
+              12.5145394,
+              44.0474574
+            ],
+            [
+              12.5145363,
+              44.0474724
+            ],
+            [
+              12.5140947,
+              44.0474249
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181027,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5141048,
+              44.0473927
+            ],
+            [
+              12.5141079,
+              44.0473777
+            ],
+            [
+              12.5145495,
+              44.0474252
+            ],
+            [
+              12.5145464,
+              44.0474402
+            ],
+            [
+              12.5141048,
+              44.0473927
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181028,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5141152,
+              44.0473618
+            ],
+            [
+              12.5141183,
+              44.0473468
+            ],
+            [
+              12.5145599,
+              44.0473943
+            ],
+            [
+              12.5145568,
+              44.0474093
+            ],
+            [
+              12.5141152,
+              44.0473618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181029,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.514126,
+              44.0473309
+            ],
+            [
+              12.5141291,
+              44.0473158
+            ],
+            [
+              12.5145707,
+              44.0473634
+            ],
+            [
+              12.5145676,
+              44.0473783
+            ],
+            [
+              12.514126,
+              44.0473309
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181030,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.514133,
+              44.0472981
+            ],
+            [
+              12.5141361,
+              44.0472831
+            ],
+            [
+              12.5145777,
+              44.0473306
+            ],
+            [
+              12.5145746,
+              44.0473456
+            ],
+            [
+              12.514133,
+              44.0472981
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181031,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5141436,
+              44.047268
+            ],
+            [
+              12.5141468,
+              44.047253
+            ],
+            [
+              12.5145884,
+              44.0473005
+            ],
+            [
+              12.5145852,
+              44.0473155
+            ],
+            [
+              12.5141436,
+              44.047268
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181032,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5141522,
+              44.0472358
+            ],
+            [
+              12.5141553,
+              44.0472208
+            ],
+            [
+              12.5145969,
+              44.0472683
+            ],
+            [
+              12.5145938,
+              44.0472833
+            ],
+            [
+              12.5141522,
+              44.0472358
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181033,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5141617,
+              44.0472042
+            ],
+            [
+              12.5141648,
+              44.0471892
+            ],
+            [
+              12.5146064,
+              44.0472367
+            ],
+            [
+              12.5146033,
+              44.0472517
+            ],
+            [
+              12.5141617,
+              44.0472042
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181034,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5141706,
+              44.0471734
+            ],
+            [
+              12.5141737,
+              44.0471584
+            ],
+            [
+              12.5146153,
+              44.0472059
+            ],
+            [
+              12.5146122,
+              44.0472209
+            ],
+            [
+              12.5141706,
+              44.0471734
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181035,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5141795,
+              44.0471427
+            ],
+            [
+              12.5141826,
+              44.0471277
+            ],
+            [
+              12.5146242,
+              44.0471752
+            ],
+            [
+              12.5146211,
+              44.0471902
+            ],
+            [
+              12.5141795,
+              44.0471427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145181036,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5141878,
+              44.0471108
+            ],
+            [
+              12.514191,
+              44.0470958
+            ],
+            [
+              12.5146325,
+              44.0471433
+            ],
+            [
+              12.5146294,
+              44.0471583
+            ],
+            [
+              12.5141878,
+              44.0471108
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145629861,
+        "tipo": "centrale_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5950575,
+              44.0077348
+            ],
+            [
+              12.5949543,
+              44.0076666
+            ],
+            [
+              12.5950211,
+              44.0075237
+            ],
+            [
+              12.5952676,
+              44.0075804
+            ],
+            [
+              12.5950575,
+              44.0077348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145629862,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5949877,
+              44.0076834
+            ],
+            [
+              12.594988,
+              44.0076712
+            ],
+            [
+              12.59509,
+              44.0076727
+            ],
+            [
+              12.5950896,
+              44.0076849
+            ],
+            [
+              12.5949877,
+              44.0076834
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145629863,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5950027,
+              44.0076516
+            ],
+            [
+              12.5950033,
+              44.0076385
+            ],
+            [
+              12.5951462,
+              44.0076418
+            ],
+            [
+              12.5951457,
+              44.0076549
+            ],
+            [
+              12.5950027,
+              44.0076516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145629864,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5950218,
+              44.0076207
+            ],
+            [
+              12.5950221,
+              44.0076081
+            ],
+            [
+              12.5951991,
+              44.0076106
+            ],
+            [
+              12.5951988,
+              44.0076232
+            ],
+            [
+              12.5950218,
+              44.0076207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145629865,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5950396,
+              44.0075905
+            ],
+            [
+              12.5950401,
+              44.0075753
+            ],
+            [
+              12.5952171,
+              44.007578
+            ],
+            [
+              12.5952167,
+              44.0075933
+            ],
+            [
+              12.5950396,
+              44.0075905
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145629875,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5474967,
+              44.010748
+            ],
+            [
+              12.5465509,
+              44.0102331
+            ],
+            [
+              12.5466384,
+              44.01015
+            ],
+            [
+              12.5475842,
+              44.0106649
+            ],
+            [
+              12.5474967,
+              44.010748
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145629876,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5475903,
+              44.0106046
+            ],
+            [
+              12.5467444,
+              44.010154
+            ],
+            [
+              12.5468334,
+              44.0100676
+            ],
+            [
+              12.5476794,
+              44.0105181
+            ],
+            [
+              12.5475903,
+              44.0106046
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145629877,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5476877,
+              44.0104677
+            ],
+            [
+              12.5469386,
+              44.0100657
+            ],
+            [
+              12.5470211,
+              44.0099861
+            ],
+            [
+              12.5477703,
+              44.010388
+            ],
+            [
+              12.5476877,
+              44.0104677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145629878,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5477884,
+              44.0103311
+            ],
+            [
+              12.5471526,
+              44.0099863
+            ],
+            [
+              12.5472369,
+              44.0099058
+            ],
+            [
+              12.5478729,
+              44.0102505
+            ],
+            [
+              12.5477884,
+              44.0103311
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145629879,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5478954,
+              44.0101961
+            ],
+            [
+              12.5473499,
+              44.0099043
+            ],
+            [
+              12.5474328,
+              44.0098242
+            ],
+            [
+              12.5479784,
+              44.0101159
+            ],
+            [
+              12.5478954,
+              44.0101961
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1145629880,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5480071,
+              44.0100744
+            ],
+            [
+              12.5475638,
+              44.0098317
+            ],
+            [
+              12.5476526,
+              44.0097478
+            ],
+            [
+              12.548096,
+              44.0099904
+            ],
+            [
+              12.5480071,
+              44.0100744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146588268,
+        "tipo": "centrale_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.592043,
+              43.9960383
+            ],
+            [
+              12.5923797,
+              43.9961221
+            ],
+            [
+              12.5927502,
+              43.9953523
+            ],
+            [
+              12.5924133,
+              43.9952684
+            ],
+            [
+              12.592043,
+              43.9960383
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146588269,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5921279,
+              43.9960295
+            ],
+            [
+              12.592126,
+              43.996002
+            ],
+            [
+              12.5923844,
+              43.9959926
+            ],
+            [
+              12.5923864,
+              43.9960201
+            ],
+            [
+              12.5921279,
+              43.9960295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146588270,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5921575,
+              43.9959681
+            ],
+            [
+              12.5921556,
+              43.9959406
+            ],
+            [
+              12.592414,
+              43.9959312
+            ],
+            [
+              12.592416,
+              43.9959587
+            ],
+            [
+              12.5921575,
+              43.9959681
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146588271,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5921916,
+              43.9959022
+            ],
+            [
+              12.5921897,
+              43.9958746
+            ],
+            [
+              12.5924481,
+              43.9958653
+            ],
+            [
+              12.5924501,
+              43.9958927
+            ],
+            [
+              12.5921916,
+              43.9959022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146588272,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.592218,
+              43.9958443
+            ],
+            [
+              12.5922161,
+              43.9958168
+            ],
+            [
+              12.5924745,
+              43.9958074
+            ],
+            [
+              12.5924764,
+              43.9958349
+            ],
+            [
+              12.592218,
+              43.9958443
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146588273,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5922491,
+              43.995777
+            ],
+            [
+              12.5922472,
+              43.9957495
+            ],
+            [
+              12.5925056,
+              43.9957401
+            ],
+            [
+              12.5925075,
+              43.9957676
+            ],
+            [
+              12.5922491,
+              43.995777
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146588274,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5922813,
+              43.9957155
+            ],
+            [
+              12.5922794,
+              43.995688
+            ],
+            [
+              12.5925378,
+              43.9956786
+            ],
+            [
+              12.5925398,
+              43.9957061
+            ],
+            [
+              12.5922813,
+              43.9957155
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146588275,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5923138,
+              43.9956522
+            ],
+            [
+              12.5923118,
+              43.9956247
+            ],
+            [
+              12.5925703,
+              43.9956153
+            ],
+            [
+              12.5925722,
+              43.9956428
+            ],
+            [
+              12.5923138,
+              43.9956522
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146588276,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.592346,
+              43.9955901
+            ],
+            [
+              12.5923441,
+              43.9955626
+            ],
+            [
+              12.5926025,
+              43.9955532
+            ],
+            [
+              12.5926044,
+              43.9955807
+            ],
+            [
+              12.592346,
+              43.9955901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146588277,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.592376,
+              43.9955283
+            ],
+            [
+              12.592374,
+              43.9955008
+            ],
+            [
+              12.5926325,
+              43.9954914
+            ],
+            [
+              12.5926344,
+              43.9955189
+            ],
+            [
+              12.592376,
+              43.9955283
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146588278,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5924048,
+              43.9954683
+            ],
+            [
+              12.5924029,
+              43.9954408
+            ],
+            [
+              12.5926613,
+              43.9954314
+            ],
+            [
+              12.5926632,
+              43.9954588
+            ],
+            [
+              12.5924048,
+              43.9954683
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1146588279,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5924287,
+              43.9954012
+            ],
+            [
+              12.5924276,
+              43.9953726
+            ],
+            [
+              12.5925616,
+              43.9953702
+            ],
+            [
+              12.5925626,
+              43.9953988
+            ],
+            [
+              12.5924287,
+              43.9954012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147677817,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5160864,
+              44.0718214
+            ],
+            [
+              12.516085,
+              44.0717379
+            ],
+            [
+              12.517348,
+              44.0717271
+            ],
+            [
+              12.5173494,
+              44.0718104
+            ],
+            [
+              12.5160864,
+              44.0718214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147677818,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5160973,
+              44.071662
+            ],
+            [
+              12.5160959,
+              44.0715785
+            ],
+            [
+              12.5173589,
+              44.0715677
+            ],
+            [
+              12.5173603,
+              44.071651
+            ],
+            [
+              12.5160973,
+              44.071662
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147677819,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5159429,
+              44.0715022
+            ],
+            [
+              12.5159418,
+              44.0714193
+            ],
+            [
+              12.5173715,
+              44.0714096
+            ],
+            [
+              12.5173726,
+              44.0714927
+            ],
+            [
+              12.5159429,
+              44.0715022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147677820,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5159952,
+              44.0713448
+            ],
+            [
+              12.5159938,
+              44.07126
+            ],
+            [
+              12.5173808,
+              44.0712483
+            ],
+            [
+              12.5173822,
+              44.0713328
+            ],
+            [
+              12.5159952,
+              44.0713448
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147677821,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5158657,
+              44.0711864
+            ],
+            [
+              12.5158646,
+              44.0711014
+            ],
+            [
+              12.5173978,
+              44.0710908
+            ],
+            [
+              12.5173989,
+              44.0711755
+            ],
+            [
+              12.5158657,
+              44.0711864
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147677822,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.515916,
+              44.0710275
+            ],
+            [
+              12.5159149,
+              44.0709436
+            ],
+            [
+              12.5174075,
+              44.0709337
+            ],
+            [
+              12.5174086,
+              44.0710178
+            ],
+            [
+              12.515916,
+              44.0710275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753816,
+        "tipo": "centrale_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5161736,
+              44.0805457
+            ],
+            [
+              12.5162188,
+              44.0800483
+            ],
+            [
+              12.5166097,
+              44.0800666
+            ],
+            [
+              12.5165647,
+              44.080564
+            ],
+            [
+              12.5161736,
+              44.0805457
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753817,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.516194,
+              44.0805171
+            ],
+            [
+              12.5165335,
+              44.0805317
+            ],
+            [
+              12.5165384,
+              44.0804729
+            ],
+            [
+              12.5161989,
+              44.0804583
+            ],
+            [
+              12.516194,
+              44.0805171
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753818,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5162071,
+              44.0803949
+            ],
+            [
+              12.5165466,
+              44.0804095
+            ],
+            [
+              12.5165515,
+              44.0803507
+            ],
+            [
+              12.516212,
+              44.0803361
+            ],
+            [
+              12.5162071,
+              44.0803949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753819,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5162177,
+              44.0802707
+            ],
+            [
+              12.5165572,
+              44.0802853
+            ],
+            [
+              12.5165621,
+              44.0802265
+            ],
+            [
+              12.5162226,
+              44.0802119
+            ],
+            [
+              12.5162177,
+              44.0802707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753820,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5162289,
+              44.0801471
+            ],
+            [
+              12.5165684,
+              44.0801616
+            ],
+            [
+              12.5165733,
+              44.0801029
+            ],
+            [
+              12.5162338,
+              44.0800883
+            ],
+            [
+              12.5162289,
+              44.0801471
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753821,
+        "tipo": "centrale_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5233665,
+              44.086349
+            ],
+            [
+              12.5237591,
+              44.0853857
+            ],
+            [
+              12.5243342,
+              44.0858173
+            ],
+            [
+              12.525005,
+              44.0861844
+            ],
+            [
+              12.5249539,
+              44.08632
+            ],
+            [
+              12.5250114,
+              44.086331
+            ],
+            [
+              12.5248493,
+              44.0867874
+            ],
+            [
+              12.5246005,
+              44.086704
+            ],
+            [
+              12.5245482,
+              44.0867773
+            ],
+            [
+              12.5233665,
+              44.086349
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753822,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5238206,
+              44.0864784
+            ],
+            [
+              12.5238267,
+              44.0864627
+            ],
+            [
+              12.52405,
+              44.0865071
+            ],
+            [
+              12.5240439,
+              44.0865228
+            ],
+            [
+              12.5238206,
+              44.0864784
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753823,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.523834,
+              44.0864486
+            ],
+            [
+              12.5238401,
+              44.0864329
+            ],
+            [
+              12.5240634,
+              44.0864773
+            ],
+            [
+              12.5240573,
+              44.086493
+            ],
+            [
+              12.523834,
+              44.0864486
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753824,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5238471,
+              44.0864187
+            ],
+            [
+              12.5238532,
+              44.0864031
+            ],
+            [
+              12.5240765,
+              44.0864475
+            ],
+            [
+              12.5240704,
+              44.0864632
+            ],
+            [
+              12.5238471,
+              44.0864187
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753825,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5238574,
+              44.0863885
+            ],
+            [
+              12.5238634,
+              44.0863729
+            ],
+            [
+              12.5240867,
+              44.0864173
+            ],
+            [
+              12.5240807,
+              44.086433
+            ],
+            [
+              12.5238574,
+              44.0863885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753826,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5238695,
+              44.086358
+            ],
+            [
+              12.5238756,
+              44.0863423
+            ],
+            [
+              12.5240989,
+              44.0863868
+            ],
+            [
+              12.5240928,
+              44.0864025
+            ],
+            [
+              12.5238695,
+              44.086358
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753827,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5238843,
+              44.0863294
+            ],
+            [
+              12.5238904,
+              44.0863137
+            ],
+            [
+              12.5241137,
+              44.0863581
+            ],
+            [
+              12.5241076,
+              44.0863739
+            ],
+            [
+              12.5238843,
+              44.0863294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753828,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5238949,
+              44.0862989
+            ],
+            [
+              12.523901,
+              44.0862832
+            ],
+            [
+              12.5241243,
+              44.0863276
+            ],
+            [
+              12.5241182,
+              44.0863433
+            ],
+            [
+              12.5238949,
+              44.0862989
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753829,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5239067,
+              44.08627
+            ],
+            [
+              12.5239127,
+              44.0862543
+            ],
+            [
+              12.524136,
+              44.0862987
+            ],
+            [
+              12.52413,
+              44.0863145
+            ],
+            [
+              12.5239067,
+              44.08627
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753830,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5234661,
+              44.0861808
+            ],
+            [
+              12.5234721,
+              44.0861651
+            ],
+            [
+              12.5236954,
+              44.0862095
+            ],
+            [
+              12.5236894,
+              44.0862252
+            ],
+            [
+              12.5234661,
+              44.0861808
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753831,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5234803,
+              44.0861522
+            ],
+            [
+              12.5234864,
+              44.0861365
+            ],
+            [
+              12.5241483,
+              44.0862688
+            ],
+            [
+              12.5241422,
+              44.0862846
+            ],
+            [
+              12.5234803,
+              44.0861522
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753832,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5234912,
+              44.0861212
+            ],
+            [
+              12.5234973,
+              44.0861055
+            ],
+            [
+              12.5241592,
+              44.0862378
+            ],
+            [
+              12.5241531,
+              44.0862536
+            ],
+            [
+              12.5234912,
+              44.0861212
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753833,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5235031,
+              44.0860916
+            ],
+            [
+              12.5235092,
+              44.0860759
+            ],
+            [
+              12.5241711,
+              44.0862083
+            ],
+            [
+              12.524165,
+              44.086224
+            ],
+            [
+              12.5235031,
+              44.0860916
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753834,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5235152,
+              44.0860605
+            ],
+            [
+              12.5235213,
+              44.0860448
+            ],
+            [
+              12.5241832,
+              44.0861771
+            ],
+            [
+              12.5241771,
+              44.0861929
+            ],
+            [
+              12.5235152,
+              44.0860605
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753835,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5235267,
+              44.0860307
+            ],
+            [
+              12.5235328,
+              44.086015
+            ],
+            [
+              12.5241947,
+              44.0861473
+            ],
+            [
+              12.5241886,
+              44.0861631
+            ],
+            [
+              12.5235267,
+              44.0860307
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753836,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5235394,
+              44.0860027
+            ],
+            [
+              12.5235455,
+              44.085987
+            ],
+            [
+              12.5242075,
+              44.0861194
+            ],
+            [
+              12.5242014,
+              44.0861351
+            ],
+            [
+              12.5235394,
+              44.0860027
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753837,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5235528,
+              44.0859716
+            ],
+            [
+              12.5235589,
+              44.0859559
+            ],
+            [
+              12.5242209,
+              44.0860882
+            ],
+            [
+              12.5242148,
+              44.086104
+            ],
+            [
+              12.5235528,
+              44.0859716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753838,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5235656,
+              44.0859436
+            ],
+            [
+              12.5235717,
+              44.0859279
+            ],
+            [
+              12.5242336,
+              44.0860603
+            ],
+            [
+              12.5242275,
+              44.086076
+            ],
+            [
+              12.5235656,
+              44.0859436
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753839,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5235771,
+              44.0859134
+            ],
+            [
+              12.5235832,
+              44.0858977
+            ],
+            [
+              12.5242451,
+              44.08603
+            ],
+            [
+              12.524239,
+              44.0860458
+            ],
+            [
+              12.5235771,
+              44.0859134
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753840,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5235879,
+              44.0858831
+            ],
+            [
+              12.523594,
+              44.0858674
+            ],
+            [
+              12.524256,
+              44.0859998
+            ],
+            [
+              12.5242499,
+              44.0860155
+            ],
+            [
+              12.5235879,
+              44.0858831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753841,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5236013,
+              44.0858529
+            ],
+            [
+              12.5236074,
+              44.0858372
+            ],
+            [
+              12.5242694,
+              44.0859695
+            ],
+            [
+              12.5242633,
+              44.0859853
+            ],
+            [
+              12.5236013,
+              44.0858529
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753842,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5236134,
+              44.0858226
+            ],
+            [
+              12.5236195,
+              44.085807
+            ],
+            [
+              12.5242815,
+              44.0859393
+            ],
+            [
+              12.5242754,
+              44.085955
+            ],
+            [
+              12.5236134,
+              44.0858226
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753843,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5236275,
+              44.0857938
+            ],
+            [
+              12.5236336,
+              44.0857781
+            ],
+            [
+              12.5242955,
+              44.0859104
+            ],
+            [
+              12.5242894,
+              44.0859262
+            ],
+            [
+              12.5236275,
+              44.0857938
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753844,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5236409,
+              44.0857626
+            ],
+            [
+              12.5236469,
+              44.0857469
+            ],
+            [
+              12.5243089,
+              44.0858793
+            ],
+            [
+              12.5243028,
+              44.085895
+            ],
+            [
+              12.5236409,
+              44.0857626
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753845,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5236524,
+              44.0857342
+            ],
+            [
+              12.5236584,
+              44.0857185
+            ],
+            [
+              12.5243204,
+              44.0858508
+            ],
+            [
+              12.5243143,
+              44.0858666
+            ],
+            [
+              12.5236524,
+              44.0857342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753846,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5236632,
+              44.085704
+            ],
+            [
+              12.5236693,
+              44.0856883
+            ],
+            [
+              12.5243312,
+              44.0858206
+            ],
+            [
+              12.5243251,
+              44.0858364
+            ],
+            [
+              12.5236632,
+              44.085704
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753847,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5236737,
+              44.0856745
+            ],
+            [
+              12.5236797,
+              44.0856592
+            ],
+            [
+              12.5241222,
+              44.085749
+            ],
+            [
+              12.5241162,
+              44.0857643
+            ],
+            [
+              12.5236737,
+              44.0856745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753848,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.523685,
+              44.0856453
+            ],
+            [
+              12.523691,
+              44.08563
+            ],
+            [
+              12.5241334,
+              44.0857198
+            ],
+            [
+              12.5241274,
+              44.0857351
+            ],
+            [
+              12.523685,
+              44.0856453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753849,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5236993,
+              44.0856143
+            ],
+            [
+              12.5237056,
+              44.0855988
+            ],
+            [
+              12.5239296,
+              44.0856457
+            ],
+            [
+              12.5239233,
+              44.0856613
+            ],
+            [
+              12.5236993,
+              44.0856143
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753850,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5237105,
+              44.0855852
+            ],
+            [
+              12.5237168,
+              44.0855697
+            ],
+            [
+              12.5239408,
+              44.0856167
+            ],
+            [
+              12.5239345,
+              44.0856322
+            ],
+            [
+              12.5237105,
+              44.0855852
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753851,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.523722,
+              44.0855559
+            ],
+            [
+              12.5237283,
+              44.0855404
+            ],
+            [
+              12.5239522,
+              44.0855874
+            ],
+            [
+              12.5239459,
+              44.0856029
+            ],
+            [
+              12.523722,
+              44.0855559
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753852,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5243213,
+              44.0859338
+            ],
+            [
+              12.5243276,
+              44.0859183
+            ],
+            [
+              12.5245515,
+              44.0859653
+            ],
+            [
+              12.5245452,
+              44.0859808
+            ],
+            [
+              12.5243213,
+              44.0859338
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753853,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5243123,
+              44.0859645
+            ],
+            [
+              12.5243186,
+              44.085949
+            ],
+            [
+              12.5245426,
+              44.085996
+            ],
+            [
+              12.5245363,
+              44.0860115
+            ],
+            [
+              12.5243123,
+              44.0859645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753854,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5243015,
+              44.0859939
+            ],
+            [
+              12.5243078,
+              44.0859784
+            ],
+            [
+              12.5245318,
+              44.0860253
+            ],
+            [
+              12.5245254,
+              44.0860408
+            ],
+            [
+              12.5243015,
+              44.0859939
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753855,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5242636,
+              44.0860833
+            ],
+            [
+              12.5242694,
+              44.0860686
+            ],
+            [
+              12.5247134,
+              44.0861604
+            ],
+            [
+              12.5247076,
+              44.086175
+            ],
+            [
+              12.5242636,
+              44.0860833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753856,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5242761,
+              44.086054
+            ],
+            [
+              12.524282,
+              44.0860393
+            ],
+            [
+              12.524726,
+              44.0861311
+            ],
+            [
+              12.5247201,
+              44.0861457
+            ],
+            [
+              12.5242761,
+              44.086054
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753857,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5242885,
+              44.0860243
+            ],
+            [
+              12.5242944,
+              44.0860096
+            ],
+            [
+              12.5247383,
+              44.0861014
+            ],
+            [
+              12.5247325,
+              44.086116
+            ],
+            [
+              12.5242885,
+              44.0860243
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753858,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5242515,
+              44.0861115
+            ],
+            [
+              12.5242574,
+              44.0860968
+            ],
+            [
+              12.5247014,
+              44.0861886
+            ],
+            [
+              12.5246955,
+              44.0862032
+            ],
+            [
+              12.5242515,
+              44.0861115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753859,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5242375,
+              44.0861422
+            ],
+            [
+              12.5242434,
+              44.0861275
+            ],
+            [
+              12.5246874,
+              44.0862193
+            ],
+            [
+              12.5246815,
+              44.0862339
+            ],
+            [
+              12.5242375,
+              44.0861422
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753860,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5242247,
+              44.0861729
+            ],
+            [
+              12.5242306,
+              44.0861582
+            ],
+            [
+              12.5246746,
+              44.08625
+            ],
+            [
+              12.5246688,
+              44.0862646
+            ],
+            [
+              12.5242247,
+              44.0861729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753861,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5242158,
+              44.0862017
+            ],
+            [
+              12.5242217,
+              44.086187
+            ],
+            [
+              12.5246657,
+              44.0862789
+            ],
+            [
+              12.5246598,
+              44.0862935
+            ],
+            [
+              12.5242158,
+              44.0862017
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753862,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5242037,
+              44.0862315
+            ],
+            [
+              12.5242096,
+              44.0862168
+            ],
+            [
+              12.5246536,
+              44.0863086
+            ],
+            [
+              12.5246477,
+              44.0863233
+            ],
+            [
+              12.5242037,
+              44.0862315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753863,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5241891,
+              44.0862615
+            ],
+            [
+              12.5241949,
+              44.0862468
+            ],
+            [
+              12.5246389,
+              44.0863386
+            ],
+            [
+              12.5246331,
+              44.0863532
+            ],
+            [
+              12.5241891,
+              44.0862615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753864,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5241775,
+              44.0862917
+            ],
+            [
+              12.5241834,
+              44.086277
+            ],
+            [
+              12.5246274,
+              44.0863688
+            ],
+            [
+              12.5246215,
+              44.0863834
+            ],
+            [
+              12.5241775,
+              44.0862917
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753865,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5241648,
+              44.086321
+            ],
+            [
+              12.5241707,
+              44.0863063
+            ],
+            [
+              12.5246146,
+              44.0863981
+            ],
+            [
+              12.5246088,
+              44.0864127
+            ],
+            [
+              12.5241648,
+              44.086321
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753866,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5241501,
+              44.0863508
+            ],
+            [
+              12.524156,
+              44.0863361
+            ],
+            [
+              12.5246,
+              44.0864279
+            ],
+            [
+              12.5245941,
+              44.0864425
+            ],
+            [
+              12.5241501,
+              44.0863508
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753867,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5241374,
+              44.0863802
+            ],
+            [
+              12.5241433,
+              44.0863655
+            ],
+            [
+              12.5245872,
+              44.0864574
+            ],
+            [
+              12.5245814,
+              44.086472
+            ],
+            [
+              12.5241374,
+              44.0863802
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753868,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5241261,
+              44.0864095
+            ],
+            [
+              12.524132,
+              44.0863948
+            ],
+            [
+              12.524576,
+              44.0864866
+            ],
+            [
+              12.5245701,
+              44.0865013
+            ],
+            [
+              12.5241261,
+              44.0864095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753869,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5241199,
+              44.0864389
+            ],
+            [
+              12.5241258,
+              44.0864243
+            ],
+            [
+              12.5245697,
+              44.0865161
+            ],
+            [
+              12.5245639,
+              44.0865307
+            ],
+            [
+              12.5241199,
+              44.0864389
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753870,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5241046,
+              44.0864696
+            ],
+            [
+              12.5241105,
+              44.086455
+            ],
+            [
+              12.5245544,
+              44.0865468
+            ],
+            [
+              12.5245486,
+              44.0865614
+            ],
+            [
+              12.5241046,
+              44.0864696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753871,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5240925,
+              44.0864994
+            ],
+            [
+              12.5240983,
+              44.0864847
+            ],
+            [
+              12.5245423,
+              44.0865765
+            ],
+            [
+              12.5245365,
+              44.0865912
+            ],
+            [
+              12.5240925,
+              44.0864994
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753872,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5240822,
+              44.0865297
+            ],
+            [
+              12.5240881,
+              44.086515
+            ],
+            [
+              12.5245321,
+              44.0866068
+            ],
+            [
+              12.5245263,
+              44.0866214
+            ],
+            [
+              12.5240822,
+              44.0865297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1147753873,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5242895,
+              44.0866056
+            ],
+            [
+              12.5242955,
+              44.0865899
+            ],
+            [
+              12.5245188,
+              44.0866343
+            ],
+            [
+              12.5245128,
+              44.08665
+            ],
+            [
+              12.5242895,
+              44.0866056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1148526910,
+        "tipo": "centrale_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5572214,
+              44.0717682
+            ],
+            [
+              12.5569043,
+              44.0714477
+            ],
+            [
+              12.557279,
+              44.0712522
+            ],
+            [
+              12.5575932,
+              44.071572
+            ],
+            [
+              12.5572214,
+              44.0717682
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1148526911,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5572235,
+              44.0717344
+            ],
+            [
+              12.5572444,
+              44.0717238
+            ],
+            [
+              12.5569522,
+              44.0714284
+            ],
+            [
+              12.5569314,
+              44.0714391
+            ],
+            [
+              12.5572235,
+              44.0717344
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1148526912,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5572678,
+              44.0717134
+            ],
+            [
+              12.5572887,
+              44.0717027
+            ],
+            [
+              12.5569965,
+              44.0714074
+            ],
+            [
+              12.5569757,
+              44.071418
+            ],
+            [
+              12.5572678,
+              44.0717134
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1148526913,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5573107,
+              44.0716914
+            ],
+            [
+              12.5573315,
+              44.0716807
+            ],
+            [
+              12.5570394,
+              44.0713854
+            ],
+            [
+              12.5570186,
+              44.0713961
+            ],
+            [
+              12.5573107,
+              44.0716914
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1148526914,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5573515,
+              44.0716662
+            ],
+            [
+              12.5573724,
+              44.0716555
+            ],
+            [
+              12.5570802,
+              44.0713602
+            ],
+            [
+              12.5570594,
+              44.0713708
+            ],
+            [
+              12.5573515,
+              44.0716662
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1148526915,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5573955,
+              44.0716479
+            ],
+            [
+              12.5574164,
+              44.0716372
+            ],
+            [
+              12.5571242,
+              44.0713419
+            ],
+            [
+              12.5571034,
+              44.0713525
+            ],
+            [
+              12.5573955,
+              44.0716479
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1148526916,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5574376,
+              44.0716268
+            ],
+            [
+              12.5574585,
+              44.0716161
+            ],
+            [
+              12.5571663,
+              44.0713208
+            ],
+            [
+              12.5571455,
+              44.0713314
+            ],
+            [
+              12.5574376,
+              44.0716268
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1148526917,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5574803,
+              44.0716043
+            ],
+            [
+              12.5575012,
+              44.0715937
+            ],
+            [
+              12.557209,
+              44.0712983
+            ],
+            [
+              12.5571882,
+              44.071309
+            ],
+            [
+              12.5574803,
+              44.0716043
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1148526918,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5575205,
+              44.0715832
+            ],
+            [
+              12.5575414,
+              44.0715726
+            ],
+            [
+              12.5572492,
+              44.0712773
+            ],
+            [
+              12.5572284,
+              44.0712879
+            ],
+            [
+              12.5575205,
+              44.0715832
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1153192747,
+        "tipo": "cabina_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5874382,
+              44.0574491
+            ],
+            [
+              12.5873844,
+              44.0574917
+            ],
+            [
+              12.5873415,
+              44.0574638
+            ],
+            [
+              12.5873954,
+              44.0574211
+            ],
+            [
+              12.5874382,
+              44.0574491
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1197157111,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5041696,
+              44.1105122
+            ],
+            [
+              12.5041925,
+              44.1104955
+            ],
+            [
+              12.5040768,
+              44.1104137
+            ],
+            [
+              12.5040539,
+              44.1104304
+            ],
+            [
+              12.5041696,
+              44.1105122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1197157112,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5042224,
+              44.1104787
+            ],
+            [
+              12.5042448,
+              44.1104622
+            ],
+            [
+              12.5039687,
+              44.1102697
+            ],
+            [
+              12.5039464,
+              44.1102862
+            ],
+            [
+              12.5042224,
+              44.1104787
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1197157113,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5042487,
+              44.110461
+            ],
+            [
+              12.5042711,
+              44.1104444
+            ],
+            [
+              12.503995,
+              44.110252
+            ],
+            [
+              12.5039727,
+              44.1102685
+            ],
+            [
+              12.5042487,
+              44.110461
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1199998705,
+        "tipo": "centrale_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4774021,
+              44.0879071
+            ],
+            [
+              12.4773651,
+              44.087666
+            ],
+            [
+              12.4776001,
+              44.0876473
+            ],
+            [
+              12.4776372,
+              44.0878884
+            ],
+            [
+              12.4774021,
+              44.0879071
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1199998706,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4774236,
+              44.0878803
+            ],
+            [
+              12.4774217,
+              44.0878688
+            ],
+            [
+              12.4775871,
+              44.087855
+            ],
+            [
+              12.477589,
+              44.0878665
+            ],
+            [
+              12.4774236,
+              44.0878803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1199998707,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4774206,
+              44.0878602
+            ],
+            [
+              12.4774187,
+              44.0878487
+            ],
+            [
+              12.4775841,
+              44.0878349
+            ],
+            [
+              12.477586,
+              44.0878464
+            ],
+            [
+              12.4774206,
+              44.0878602
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1199998708,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4774181,
+              44.0878405
+            ],
+            [
+              12.4774162,
+              44.087829
+            ],
+            [
+              12.4775815,
+              44.0878151
+            ],
+            [
+              12.4775834,
+              44.0878267
+            ],
+            [
+              12.4774181,
+              44.0878405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1199998709,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4774155,
+              44.0878203
+            ],
+            [
+              12.4774136,
+              44.0878088
+            ],
+            [
+              12.477579,
+              44.087795
+            ],
+            [
+              12.4775809,
+              44.0878065
+            ],
+            [
+              12.4774155,
+              44.0878203
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1199998710,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4774123,
+              44.0877974
+            ],
+            [
+              12.4774104,
+              44.0877859
+            ],
+            [
+              12.4775758,
+              44.0877721
+            ],
+            [
+              12.4775777,
+              44.0877836
+            ],
+            [
+              12.4774123,
+              44.0877974
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1199998711,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4774085,
+              44.0877795
+            ],
+            [
+              12.4774066,
+              44.0877681
+            ],
+            [
+              12.477572,
+              44.0877542
+            ],
+            [
+              12.4775738,
+              44.0877657
+            ],
+            [
+              12.4774085,
+              44.0877795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1199998712,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4774066,
+              44.0877585
+            ],
+            [
+              12.4774047,
+              44.087747
+            ],
+            [
+              12.4775701,
+              44.0877331
+            ],
+            [
+              12.4775719,
+              44.0877446
+            ],
+            [
+              12.4774066,
+              44.0877585
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1199998713,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4774026,
+              44.0877364
+            ],
+            [
+              12.4774007,
+              44.087725
+            ],
+            [
+              12.4775661,
+              44.0877111
+            ],
+            [
+              12.477568,
+              44.0877226
+            ],
+            [
+              12.4774026,
+              44.0877364
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1199998714,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4773994,
+              44.0877167
+            ],
+            [
+              12.4773976,
+              44.0877052
+            ],
+            [
+              12.4775629,
+              44.0876913
+            ],
+            [
+              12.4775648,
+              44.0877029
+            ],
+            [
+              12.4773994,
+              44.0877167
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1199998715,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4773958,
+              44.0876966
+            ],
+            [
+              12.477394,
+              44.0876851
+            ],
+            [
+              12.4775593,
+              44.0876713
+            ],
+            [
+              12.4775612,
+              44.0876828
+            ],
+            [
+              12.4773958,
+              44.0876966
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1206002619,
+        "tipo": "cabina_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4520553,
+              44.0182408
+            ],
+            [
+              12.4520896,
+              44.0182236
+            ],
+            [
+              12.4520668,
+              44.0182
+            ],
+            [
+              12.4520324,
+              44.0182173
+            ],
+            [
+              12.4520553,
+              44.0182408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1206737987,
+        "tipo": "centrale_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5049788,
+              44.0845793
+            ],
+            [
+              12.504715,
+              44.084572
+            ],
+            [
+              12.5047204,
+              44.0844702
+            ],
+            [
+              12.5049843,
+              44.0844776
+            ],
+            [
+              12.5049788,
+              44.0845793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1206737988,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5047225,
+              44.0845664
+            ],
+            [
+              12.5047231,
+              44.0845543
+            ],
+            [
+              12.504954,
+              44.0845609
+            ],
+            [
+              12.5049533,
+              44.084573
+            ],
+            [
+              12.5047225,
+              44.0845664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1206737989,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5047213,
+              44.084545
+            ],
+            [
+              12.504722,
+              44.0845329
+            ],
+            [
+              12.5049529,
+              44.0845395
+            ],
+            [
+              12.5049522,
+              44.0845516
+            ],
+            [
+              12.5047213,
+              44.084545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1206737990,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5047236,
+              44.0845249
+            ],
+            [
+              12.5047243,
+              44.0845128
+            ],
+            [
+              12.5049551,
+              44.0845194
+            ],
+            [
+              12.5049545,
+              44.0845314
+            ],
+            [
+              12.5047236,
+              44.0845249
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1206737991,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5047248,
+              44.0845053
+            ],
+            [
+              12.5047254,
+              44.0844931
+            ],
+            [
+              12.5049563,
+              44.0844997
+            ],
+            [
+              12.5049556,
+              44.0845118
+            ],
+            [
+              12.5047248,
+              44.0845053
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1206737992,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.504725,
+              44.0844855
+            ],
+            [
+              12.5047257,
+              44.0844738
+            ],
+            [
+              12.5049784,
+              44.084482
+            ],
+            [
+              12.5049777,
+              44.0844936
+            ],
+            [
+              12.504725,
+              44.0844855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1208044550,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5304394,
+              43.9994944
+            ],
+            [
+              12.5304791,
+              43.9995144
+            ],
+            [
+              12.5305131,
+              43.9994794
+            ],
+            [
+              12.530472,
+              43.9994585
+            ],
+            [
+              12.5304394,
+              43.9994944
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1242327044,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.587719,
+              44.0456249
+            ],
+            [
+              12.5877549,
+              44.0455511
+            ],
+            [
+              12.5881506,
+              44.0456507
+            ],
+            [
+              12.5881307,
+              44.0456923
+            ],
+            [
+              12.5881077,
+              44.0456865
+            ],
+            [
+              12.5880898,
+              44.0457181
+            ],
+            [
+              12.587719,
+              44.0456249
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1327251365,
+        "tipo": "centrale_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5450841,
+              44.0646823
+            ],
+            [
+              12.5451206,
+              44.0644627
+            ],
+            [
+              12.5448719,
+              44.0644414
+            ],
+            [
+              12.5448354,
+              44.0646609
+            ],
+            [
+              12.5450841,
+              44.0646823
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1327251366,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.544889,
+              44.0646164
+            ],
+            [
+              12.5448938,
+              44.064588
+            ],
+            [
+              12.5450669,
+              44.0646031
+            ],
+            [
+              12.5450621,
+              44.0646316
+            ],
+            [
+              12.544889,
+              44.0646164
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1327251367,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.544901,
+              44.0645533
+            ],
+            [
+              12.5449058,
+              44.0645248
+            ],
+            [
+              12.5450789,
+              44.0645399
+            ],
+            [
+              12.5450741,
+              44.0645684
+            ],
+            [
+              12.544901,
+              44.0645533
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1327251368,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5449098,
+              44.0644918
+            ],
+            [
+              12.5449146,
+              44.0644634
+            ],
+            [
+              12.5450877,
+              44.0644785
+            ],
+            [
+              12.5450829,
+              44.064507
+            ],
+            [
+              12.5449098,
+              44.0644918
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1417207592,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.586266,
+              44.0217913
+            ],
+            [
+              12.5859749,
+              44.0216507
+            ],
+            [
+              12.58601,
+              44.0216132
+            ],
+            [
+              12.586301,
+              44.0217539
+            ],
+            [
+              12.586266,
+              44.0217913
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1417207593,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5863248,
+              44.0216741
+            ],
+            [
+              12.5860151,
+              44.0215249
+            ],
+            [
+              12.5860501,
+              44.0214873
+            ],
+            [
+              12.5863599,
+              44.0216363
+            ],
+            [
+              12.5863248,
+              44.0216741
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1464296963,
+        "tipo": "cabina_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5740545,
+              44.0712124
+            ],
+            [
+              12.5740902,
+              44.0711927
+            ],
+            [
+              12.5740579,
+              44.0711624
+            ],
+            [
+              12.5740221,
+              44.0711821
+            ],
+            [
+              12.5740545,
+              44.0712124
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1494402456,
+        "tipo": "centrale_elettrica",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4912978,
+              44.1009109
+            ],
+            [
+              12.4913442,
+              44.1007276
+            ],
+            [
+              12.4909653,
+              44.1006884
+            ],
+            [
+              12.4909344,
+              44.1008303
+            ],
+            [
+              12.4910246,
+              44.1008811
+            ],
+            [
+              12.4912978,
+              44.1009109
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1494402457,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4909841,
+              44.1008114
+            ],
+            [
+              12.4911227,
+              44.1008265
+            ],
+            [
+              12.4911194,
+              44.1008421
+            ],
+            [
+              12.4909808,
+              44.100827
+            ],
+            [
+              12.4909841,
+              44.1008114
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1494402458,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4911455,
+              44.1008282
+            ],
+            [
+              12.4912841,
+              44.1008433
+            ],
+            [
+              12.4912809,
+              44.1008589
+            ],
+            [
+              12.4911422,
+              44.1008438
+            ],
+            [
+              12.4911455,
+              44.1008282
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1494402459,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4911524,
+              44.1007973
+            ],
+            [
+              12.4912911,
+              44.1008123
+            ],
+            [
+              12.4912878,
+              44.1008279
+            ],
+            [
+              12.4911491,
+              44.1008128
+            ],
+            [
+              12.4911524,
+              44.1007973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1494402460,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4911589,
+              44.1007663
+            ],
+            [
+              12.4912976,
+              44.1007814
+            ],
+            [
+              12.4912943,
+              44.100797
+            ],
+            [
+              12.4911557,
+              44.1007819
+            ],
+            [
+              12.4911589,
+              44.1007663
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1494402461,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4911679,
+              44.1007357
+            ],
+            [
+              12.4913065,
+              44.1007507
+            ],
+            [
+              12.4913032,
+              44.1007663
+            ],
+            [
+              12.4911646,
+              44.1007512
+            ],
+            [
+              12.4911679,
+              44.1007357
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1494402462,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4910053,
+              44.1007173
+            ],
+            [
+              12.4911439,
+              44.1007323
+            ],
+            [
+              12.4911406,
+              44.1007479
+            ],
+            [
+              12.491002,
+              44.1007328
+            ],
+            [
+              12.4910053,
+              44.1007173
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1494402463,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4909983,
+              44.1007488
+            ],
+            [
+              12.491137,
+              44.1007639
+            ],
+            [
+              12.4911337,
+              44.1007794
+            ],
+            [
+              12.4909951,
+              44.1007644
+            ],
+            [
+              12.4909983,
+              44.1007488
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1494402464,
+        "tipo": "pannello_solare",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4909906,
+              44.1007798
+            ],
+            [
+              12.4911293,
+              44.1007948
+            ],
+            [
+              12.491126,
+              44.1008104
+            ],
+            [
+              12.4909873,
+              44.1007953
+            ],
+            [
+              12.4909906,
+              44.1007798
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

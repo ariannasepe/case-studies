@@ -1,0 +1,1465 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "1",
+        "quartiere": "Borgo Mazzini",
+        "pop_tot": 531,
+        "pop_0_14": 48,
+        "pop_15_64": 340,
+        "pop_65p": 143,
+        "densita_ab_kmq": 53100,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54509,
+          44.05917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "2",
+        "quartiere": "Borgo Mazzini",
+        "pop_tot": 481,
+        "pop_0_14": 43,
+        "pop_15_64": 308,
+        "pop_65p": 130,
+        "densita_ab_kmq": 48100,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54825,
+          44.05906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "3",
+        "quartiere": "Colonnella",
+        "pop_tot": 536,
+        "pop_0_14": 48,
+        "pop_15_64": 343,
+        "pop_65p": 145,
+        "densita_ab_kmq": 53600,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56284,
+          44.05519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "4",
+        "quartiere": "Borgo Mazzini",
+        "pop_tot": 525,
+        "pop_0_14": 47,
+        "pop_15_64": 336,
+        "pop_65p": 142,
+        "densita_ab_kmq": 52500,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55385,
+          44.04473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "5",
+        "quartiere": "Borgo Mazzini",
+        "pop_tot": 477,
+        "pop_0_14": 43,
+        "pop_15_64": 305,
+        "pop_65p": 129,
+        "densita_ab_kmq": 47700,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54852,
+          44.05634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "6",
+        "quartiere": "Borgo Mazzini",
+        "pop_tot": 521,
+        "pop_0_14": 47,
+        "pop_15_64": 333,
+        "pop_65p": 141,
+        "densita_ab_kmq": 52100,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54756,
+          44.05731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "7",
+        "quartiere": "Colonnella",
+        "pop_tot": 519,
+        "pop_0_14": 47,
+        "pop_15_64": 332,
+        "pop_65p": 140,
+        "densita_ab_kmq": 51900,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58269,
+          44.05073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "8",
+        "quartiere": "Ghetto Turco",
+        "pop_tot": 485,
+        "pop_0_14": 44,
+        "pop_15_64": 310,
+        "pop_65p": 131,
+        "densita_ab_kmq": 48500,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59434,
+          44.04183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "9",
+        "quartiere": "Colonnella",
+        "pop_tot": 470,
+        "pop_0_14": 42,
+        "pop_15_64": 301,
+        "pop_65p": 127,
+        "densita_ab_kmq": 47000,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59101,
+          44.04854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "10",
+        "quartiere": "Centro storico",
+        "pop_tot": 469,
+        "pop_0_14": 42,
+        "pop_15_64": 300,
+        "pop_65p": 127,
+        "densita_ab_kmq": 46900,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57659,
+          44.05705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "11",
+        "quartiere": "Colonnella",
+        "pop_tot": 463,
+        "pop_0_14": 42,
+        "pop_15_64": 296,
+        "pop_65p": 125,
+        "densita_ab_kmq": 46300,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57292,
+          44.04364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "12",
+        "quartiere": "Borgo S.Giovanni - Lagomaggio",
+        "pop_tot": 494,
+        "pop_0_14": 44,
+        "pop_15_64": 316,
+        "pop_65p": 133,
+        "densita_ab_kmq": 49400,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58819,
+          44.05792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "13",
+        "quartiere": "Centro storico",
+        "pop_tot": 543,
+        "pop_0_14": 49,
+        "pop_15_64": 348,
+        "pop_65p": 147,
+        "densita_ab_kmq": 54300,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57043,
+          44.05681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "14",
+        "quartiere": "Centro storico",
+        "pop_tot": 498,
+        "pop_0_14": 45,
+        "pop_15_64": 319,
+        "pop_65p": 134,
+        "densita_ab_kmq": 49800,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56394,
+          44.05871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "15",
+        "quartiere": "Centro storico",
+        "pop_tot": 530,
+        "pop_0_14": 48,
+        "pop_15_64": 339,
+        "pop_65p": 143,
+        "densita_ab_kmq": 53000,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57315,
+          44.06513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "16",
+        "quartiere": "Centro storico",
+        "pop_tot": 523,
+        "pop_0_14": 47,
+        "pop_15_64": 335,
+        "pop_65p": 141,
+        "densita_ab_kmq": 52300,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56588,
+          44.05618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "17",
+        "quartiere": "Centro storico",
+        "pop_tot": 534,
+        "pop_0_14": 48,
+        "pop_15_64": 342,
+        "pop_65p": 144,
+        "densita_ab_kmq": 53400,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56648,
+          44.05866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "18",
+        "quartiere": "Centro storico",
+        "pop_tot": 460,
+        "pop_0_14": 41,
+        "pop_15_64": 294,
+        "pop_65p": 124,
+        "densita_ab_kmq": 46000,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57719,
+          44.06518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "19",
+        "quartiere": "Colonnella",
+        "pop_tot": 498,
+        "pop_0_14": 45,
+        "pop_15_64": 319,
+        "pop_65p": 134,
+        "densita_ab_kmq": 49800,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56853,
+          44.0502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "20",
+        "quartiere": "Colonnella",
+        "pop_tot": 496,
+        "pop_0_14": 45,
+        "pop_15_64": 317,
+        "pop_65p": 134,
+        "densita_ab_kmq": 49600,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56492,
+          44.0462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "21",
+        "quartiere": "Colonnella",
+        "pop_tot": 535,
+        "pop_0_14": 48,
+        "pop_15_64": 342,
+        "pop_65p": 144,
+        "densita_ab_kmq": 53500,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56818,
+          44.05449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "22",
+        "quartiere": "Colonnella",
+        "pop_tot": 532,
+        "pop_0_14": 48,
+        "pop_15_64": 340,
+        "pop_65p": 144,
+        "densita_ab_kmq": 53200,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56206,
+          44.05019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "23",
+        "quartiere": "Colonnella",
+        "pop_tot": 518,
+        "pop_0_14": 47,
+        "pop_15_64": 332,
+        "pop_65p": 140,
+        "densita_ab_kmq": 51800,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58265,
+          44.04346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "24",
+        "quartiere": "Colonnella",
+        "pop_tot": 498,
+        "pop_0_14": 45,
+        "pop_15_64": 319,
+        "pop_65p": 134,
+        "densita_ab_kmq": 49800,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56828,
+          44.05433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "25",
+        "quartiere": "Zona Sud - monte",
+        "pop_tot": 538,
+        "pop_0_14": 48,
+        "pop_15_64": 344,
+        "pop_65p": 145,
+        "densita_ab_kmq": 53800,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5712,
+          44.02592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "26",
+        "quartiere": "Zona Sud - monte",
+        "pop_tot": 548,
+        "pop_0_14": 49,
+        "pop_15_64": 351,
+        "pop_65p": 148,
+        "densita_ab_kmq": 54800,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59576,
+          43.99668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "27",
+        "quartiere": "Zona Sud - monte",
+        "pop_tot": 454,
+        "pop_0_14": 41,
+        "pop_15_64": 291,
+        "pop_65p": 123,
+        "densita_ab_kmq": 45400,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59902,
+          44.00773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "28",
+        "quartiere": "Zona Sud - monte",
+        "pop_tot": 458,
+        "pop_0_14": 41,
+        "pop_15_64": 293,
+        "pop_65p": 124,
+        "densita_ab_kmq": 45800,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.53239,
+          44.0425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "29",
+        "quartiere": "Zona Sud - monte",
+        "pop_tot": 541,
+        "pop_0_14": 49,
+        "pop_15_64": 346,
+        "pop_65p": 146,
+        "densita_ab_kmq": 54100,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54402,
+          44.02405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "30",
+        "quartiere": "Zona Sud - Mare",
+        "pop_tot": 500,
+        "pop_0_14": 45,
+        "pop_15_64": 320,
+        "pop_65p": 135,
+        "densita_ab_kmq": 50000,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60795,
+          44.02324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "31",
+        "quartiere": "Ghetto Turco",
+        "pop_tot": 468,
+        "pop_0_14": 42,
+        "pop_15_64": 300,
+        "pop_65p": 126,
+        "densita_ab_kmq": 46800,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59672,
+          44.03394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "32",
+        "quartiere": "Ghetto Turco",
+        "pop_tot": 521,
+        "pop_0_14": 47,
+        "pop_15_64": 333,
+        "pop_65p": 141,
+        "densita_ab_kmq": 52100,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60327,
+          44.04264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "33",
+        "quartiere": "Ghetto Turco",
+        "pop_tot": 504,
+        "pop_0_14": 45,
+        "pop_15_64": 323,
+        "pop_65p": 136,
+        "densita_ab_kmq": 50400,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.61185,
+          44.03659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "34",
+        "quartiere": "Ghetto Turco",
+        "pop_tot": 478,
+        "pop_0_14": 43,
+        "pop_15_64": 306,
+        "pop_65p": 129,
+        "densita_ab_kmq": 47800,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.61423,
+          44.03205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "35",
+        "quartiere": "Ghetto Turco",
+        "pop_tot": 513,
+        "pop_0_14": 46,
+        "pop_15_64": 328,
+        "pop_65p": 139,
+        "densita_ab_kmq": 51300,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59256,
+          44.03047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "36",
+        "quartiere": "Ghetto Turco",
+        "pop_tot": 464,
+        "pop_0_14": 42,
+        "pop_15_64": 297,
+        "pop_65p": 125,
+        "densita_ab_kmq": 46400,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59404,
+          44.03243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "38",
+        "quartiere": "Marecchiese",
+        "pop_tot": 510,
+        "pop_0_14": 46,
+        "pop_15_64": 326,
+        "pop_65p": 138,
+        "densita_ab_kmq": 51000,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5064,
+          44.0148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "39",
+        "quartiere": "Borgo Mazzini",
+        "pop_tot": 494,
+        "pop_0_14": 44,
+        "pop_15_64": 316,
+        "pop_65p": 133,
+        "densita_ab_kmq": 49400,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54944,
+          44.05297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "41",
+        "quartiere": "Zona Sud - monte",
+        "pop_tot": 530,
+        "pop_0_14": 48,
+        "pop_15_64": 339,
+        "pop_65p": 143,
+        "densita_ab_kmq": 53000,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.52418,
+          44.04401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "42",
+        "quartiere": "Marecchiese",
+        "pop_tot": 505,
+        "pop_0_14": 45,
+        "pop_15_64": 323,
+        "pop_65p": 136,
+        "densita_ab_kmq": 50500,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.45084,
+          44.01157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "44",
+        "quartiere": "Marecchiese",
+        "pop_tot": 554,
+        "pop_0_14": 50,
+        "pop_15_64": 355,
+        "pop_65p": 150,
+        "densita_ab_kmq": 55400,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.46826,
+          44.01796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "47",
+        "quartiere": "Marecchiese",
+        "pop_tot": 539,
+        "pop_0_14": 49,
+        "pop_15_64": 345,
+        "pop_65p": 146,
+        "densita_ab_kmq": 53900,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.46086,
+          44.00565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "48",
+        "quartiere": "Marecchiese",
+        "pop_tot": 482,
+        "pop_0_14": 43,
+        "pop_15_64": 308,
+        "pop_65p": 130,
+        "densita_ab_kmq": 48200,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.49992,
+          44.04498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "49",
+        "quartiere": "Zona Sud - monte",
+        "pop_tot": 529,
+        "pop_0_14": 48,
+        "pop_15_64": 339,
+        "pop_65p": 143,
+        "densita_ab_kmq": 52900,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54341,
+          44.02752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "51",
+        "quartiere": "Marecchiese",
+        "pop_tot": 501,
+        "pop_0_14": 45,
+        "pop_15_64": 321,
+        "pop_65p": 135,
+        "densita_ab_kmq": 50100,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.46551,
+          43.99272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "53",
+        "quartiere": "Zona Nord - monte",
+        "pop_tot": 524,
+        "pop_0_14": 47,
+        "pop_15_64": 335,
+        "pop_65p": 141,
+        "densita_ab_kmq": 52400,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.53165,
+          44.06436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "56",
+        "quartiere": "Zona Sud - monte",
+        "pop_tot": 529,
+        "pop_0_14": 48,
+        "pop_15_64": 339,
+        "pop_65p": 143,
+        "densita_ab_kmq": 52900,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.53813,
+          44.01044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "57",
+        "quartiere": "Zona Sud - monte",
+        "pop_tot": 489,
+        "pop_0_14": 44,
+        "pop_15_64": 313,
+        "pop_65p": 132,
+        "densita_ab_kmq": 48900,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5446,
+          44.04271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "58",
+        "quartiere": "Marecchiese",
+        "pop_tot": 550,
+        "pop_0_14": 50,
+        "pop_15_64": 352,
+        "pop_65p": 148,
+        "densita_ab_kmq": 55000,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.46112,
+          43.99961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "59",
+        "quartiere": "Zona Sud - monte",
+        "pop_tot": 547,
+        "pop_0_14": 49,
+        "pop_15_64": 350,
+        "pop_65p": 148,
+        "densita_ab_kmq": 54700,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51259,
+          44.01189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "60",
+        "quartiere": "Marecchiese",
+        "pop_tot": 528,
+        "pop_0_14": 48,
+        "pop_15_64": 338,
+        "pop_65p": 143,
+        "densita_ab_kmq": 52800,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.48984,
+          43.99341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "63",
+        "quartiere": "Zona Sud - monte",
+        "pop_tot": 552,
+        "pop_0_14": 50,
+        "pop_15_64": 353,
+        "pop_65p": 149,
+        "densita_ab_kmq": 55200,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51044,
+          43.99156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "65",
+        "quartiere": "Marecchiese",
+        "pop_tot": 492,
+        "pop_0_14": 44,
+        "pop_15_64": 315,
+        "pop_65p": 133,
+        "densita_ab_kmq": 49200,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.46999,
+          44.01649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "67",
+        "quartiere": "Marecchiese",
+        "pop_tot": 535,
+        "pop_0_14": 48,
+        "pop_15_64": 342,
+        "pop_65p": 144,
+        "densita_ab_kmq": 53500,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.50414,
+          43.99293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "69",
+        "quartiere": "Borgo S.Giovanni - Lagomaggio",
+        "pop_tot": 462,
+        "pop_0_14": 42,
+        "pop_15_64": 296,
+        "pop_65p": 125,
+        "densita_ab_kmq": 46200,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59542,
+          44.05682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "72",
+        "quartiere": "Borgo S.Giovanni - Lagomaggio",
+        "pop_tot": 457,
+        "pop_0_14": 41,
+        "pop_15_64": 292,
+        "pop_65p": 123,
+        "densita_ab_kmq": 45700,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58514,
+          44.05624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "73",
+        "quartiere": "Colonnella",
+        "pop_tot": 463,
+        "pop_0_14": 42,
+        "pop_15_64": 296,
+        "pop_65p": 125,
+        "densita_ab_kmq": 46300,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57896,
+          44.05043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "74",
+        "quartiere": "Colonnella",
+        "pop_tot": 507,
+        "pop_0_14": 46,
+        "pop_15_64": 324,
+        "pop_65p": 137,
+        "densita_ab_kmq": 50700,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57461,
+          44.05016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "77",
+        "quartiere": "Zona Nord - mare",
+        "pop_tot": 462,
+        "pop_0_14": 42,
+        "pop_15_64": 296,
+        "pop_65p": 125,
+        "densita_ab_kmq": 46200,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5038,
+          44.11553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "79",
+        "quartiere": "Zona Nord - mare",
+        "pop_tot": 480,
+        "pop_0_14": 43,
+        "pop_15_64": 307,
+        "pop_65p": 130,
+        "densita_ab_kmq": 48000,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51106,
+          44.09269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "84",
+        "quartiere": "Zona Nord - mare",
+        "pop_tot": 550,
+        "pop_0_14": 50,
+        "pop_15_64": 352,
+        "pop_65p": 148,
+        "densita_ab_kmq": 55000,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.50609,
+          44.0961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "86",
+        "quartiere": "Zona Nord - mare",
+        "pop_tot": 457,
+        "pop_0_14": 41,
+        "pop_15_64": 292,
+        "pop_65p": 123,
+        "densita_ab_kmq": 45700,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5084,
+          44.08512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "87",
+        "quartiere": "Zona Sud - Mare",
+        "pop_tot": 545,
+        "pop_0_14": 49,
+        "pop_15_64": 349,
+        "pop_65p": 147,
+        "densita_ab_kmq": 54500,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60392,
+          44.00979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "88",
+        "quartiere": "Ghetto Turco",
+        "pop_tot": 511,
+        "pop_0_14": 46,
+        "pop_15_64": 327,
+        "pop_65p": 138,
+        "densita_ab_kmq": 51100,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.61174,
+          44.04026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "89",
+        "quartiere": "Zona Sud - Mare",
+        "pop_tot": 470,
+        "pop_0_14": 42,
+        "pop_15_64": 301,
+        "pop_65p": 127,
+        "densita_ab_kmq": 47000,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59333,
+          44.02716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "90",
+        "quartiere": "Zona Sud - Mare",
+        "pop_tot": 473,
+        "pop_0_14": 43,
+        "pop_15_64": 303,
+        "pop_65p": 128,
+        "densita_ab_kmq": 47300,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59381,
+          44.01046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "91",
+        "quartiere": "Ghetto Turco",
+        "pop_tot": 480,
+        "pop_0_14": 43,
+        "pop_15_64": 307,
+        "pop_65p": 130,
+        "densita_ab_kmq": 48000,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60765,
+          44.04363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "92",
+        "quartiere": "Ghetto Turco",
+        "pop_tot": 522,
+        "pop_0_14": 47,
+        "pop_15_64": 334,
+        "pop_65p": 141,
+        "densita_ab_kmq": 52200,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60114,
+          44.03046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "93",
+        "quartiere": "San Giuliano Celle",
+        "pop_tot": 529,
+        "pop_0_14": 48,
+        "pop_15_64": 339,
+        "pop_65p": 143,
+        "densita_ab_kmq": 52900,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5432,
+          44.07308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "95",
+        "quartiere": "San Giuliano Celle",
+        "pop_tot": 476,
+        "pop_0_14": 43,
+        "pop_15_64": 305,
+        "pop_65p": 129,
+        "densita_ab_kmq": 47600,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56331,
+          44.06694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "96",
+        "quartiere": "San Giuliano Celle",
+        "pop_tot": 483,
+        "pop_0_14": 43,
+        "pop_15_64": 309,
+        "pop_65p": 130,
+        "densita_ab_kmq": 48300,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55394,
+          44.07334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "97",
+        "quartiere": "San Giuliano Celle",
+        "pop_tot": 488,
+        "pop_0_14": 44,
+        "pop_15_64": 312,
+        "pop_65p": 132,
+        "densita_ab_kmq": 48800,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.55604,
+          44.07795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sezione_id": "98",
+        "quartiere": "San Giuliano Celle",
+        "pop_tot": 459,
+        "pop_0_14": 41,
+        "pop_15_64": 294,
+        "pop_65p": 124,
+        "densita_ab_kmq": 45900,
+        "fonte": "ISTAT Censimento 2021 + SIT Rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54071,
+          44.07244
+        ]
+      }
+    }
+  ]
+}

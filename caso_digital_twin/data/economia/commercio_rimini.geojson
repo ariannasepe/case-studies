@@ -1,0 +1,2010 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 734958452,
+        "tipo": "supermercato",
+        "name": "Coop",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5498865,
+          44.0571288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 968078958,
+        "tipo": "supermercato",
+        "name": "PENNY",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5426553,
+          44.0593438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1188833219,
+        "tipo": "supermercato",
+        "name": "Conad City",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5903181,
+          44.0477518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1600341520,
+        "tipo": "supermercato",
+        "name": "Conad",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5641874,
+          44.0459697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1951525722,
+        "tipo": "supermercato",
+        "name": "Conad",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5753133,
+          44.0371667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2430612312,
+        "tipo": "supermercato",
+        "name": "MD",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5738513,
+          44.0424886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2501859414,
+        "tipo": "supermercato",
+        "name": "Ipercoop",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5294262,
+          44.0675203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2505230771,
+        "tipo": "supermercato",
+        "name": "Coop",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5494663,
+          44.0682583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718100135,
+        "tipo": "mercato",
+        "name": "Mini mix",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5716676,
+          44.0576208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718103188,
+        "tipo": "supermercato",
+        "name": "",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5925278,
+          44.0565851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718109295,
+        "tipo": "supermercato",
+        "name": "Econatura",
+        "opening_hours": "Mo-Sa 09:30-12:30, 16:00-19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5659778,
+          44.0578508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718111503,
+        "tipo": "grande_magazzino",
+        "name": "Coin",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.569732,
+          44.0583236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718127037,
+        "tipo": "supermercato",
+        "name": "Conad City",
+        "opening_hours": "Mo-Sa 07:30-20:00; Su 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5789667,
+          44.0589542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718145816,
+        "tipo": "supermercato",
+        "name": "Tiberio Market",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5647073,
+          44.0627962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718148984,
+        "tipo": "supermercato",
+        "name": "Conad City",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5328921,
+          44.0561435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718153746,
+        "tipo": "supermercato",
+        "name": "Zhong Nan Hai",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5725555,
+          44.0616003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718155459,
+        "tipo": "supermercato",
+        "name": "Conad City San Vito",
+        "opening_hours": "Mo-Sa 06:30-13:00, 16:30-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4584061,
+          44.085204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718170967,
+        "tipo": "supermercato",
+        "name": "Mix Markt",
+        "opening_hours": "Mo-Su 09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6034305,
+          44.0333516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718172272,
+        "tipo": "supermercato",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 08:30-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6050284,
+          44.0320005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718176939,
+        "tipo": "supermercato",
+        "name": "Conad City",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5618508,
+          44.0587918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718188813,
+        "tipo": "supermercato",
+        "name": "Conad City",
+        "opening_hours": "Mo-Sa 07:00-20:00, Su 08:30-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5630128,
+          44.0555834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718197415,
+        "tipo": "supermercato",
+        "name": "Balkan Market",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5724709,
+          44.0630745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718198794,
+        "tipo": "supermercato",
+        "name": "Latteria Montanari",
+        "opening_hours": "Mo, We, Fr 07:30-13:00, 16:00-19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6091535,
+          44.0369578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718199512,
+        "tipo": "supermercato",
+        "name": "ALDI",
+        "opening_hours": "Mo-Sa 08:30-21:00, Su 08:30-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5663014,
+          44.0418915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718201788,
+        "tipo": "supermercato",
+        "name": "Supermarket Cinese",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.569849,
+          44.0634717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718204533,
+        "tipo": "supermercato",
+        "name": "NaturaSì",
+        "opening_hours": "Mo-Sa 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5670989,
+          44.0541705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718208128,
+        "tipo": "supermercato",
+        "name": "NaturaSì",
+        "opening_hours": "Mo-Sa 09:00-19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.551764,
+          44.0686241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3237993440,
+        "tipo": "mercato",
+        "name": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5707041,
+          44.0052082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4257815989,
+        "tipo": "supermercato",
+        "name": "Five Market",
+        "opening_hours": "Mo-Su 07:30-13:00,16:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5152782,
+          44.1047791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4345129594,
+        "tipo": "supermercato",
+        "name": "Supermarket 27",
+        "opening_hours": "Mo-Su 09:00-13:00, 16:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6129828,
+          44.0382156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4349079204,
+        "tipo": "supermercato",
+        "name": "Grilli",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5939457,
+          44.0551315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4349079399,
+        "tipo": "supermercato",
+        "name": "da Diego",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.596996,
+          44.0520978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4358994390,
+        "tipo": "supermercato",
+        "name": "Conad",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5698857,
+          44.0584923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4359144094,
+        "tipo": "supermercato",
+        "name": "Conad City",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5607426,
+          44.0657491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4467320792,
+        "tipo": "supermercato",
+        "name": "Conad",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5738067,
+          44.0709739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5115434832,
+        "tipo": "supermercato",
+        "name": "EuroSpin",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 08:30-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6000024,
+          44.0344559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5836994486,
+        "tipo": "supermercato",
+        "name": "La botteguccia",
+        "opening_hours": "Mo-Su 08:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5347821,
+          44.0903035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5872927686,
+        "tipo": "supermercato",
+        "name": "Conad",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5649194,
+          44.0705023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6802228885,
+        "tipo": "supermercato",
+        "name": "Mini market",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5516394,
+          44.0785372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7512127904,
+        "tipo": "supermercato",
+        "name": "Conad",
+        "opening_hours": "Mo-Sa 08:00-20:30; Su 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5670564,
+          44.0485178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7512199305,
+        "tipo": "supermercato",
+        "name": "Conad",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5862428,
+          44.0395622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7842743484,
+        "tipo": "mercato",
+        "name": "",
+        "opening_hours": "Mo-Sa 07:00-13:00; Su,PH off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5355408,
+          44.0877898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9048274447,
+        "tipo": "supermercato",
+        "name": "Coop",
+        "opening_hours": "Mo-Sa 07:30-19:30; Su 08:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5362386,
+          44.0886447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11327879038,
+        "tipo": "supermercato",
+        "name": "CRAI Viserbella",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5258324,
+          44.0966382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11327879043,
+        "tipo": "supermercato",
+        "name": "Mini Market & Alimentari",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5138446,
+          44.1060302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11340997576,
+        "tipo": "supermercato",
+        "name": "",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5152967,
+          44.1047622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12386119713,
+        "tipo": "supermercato",
+        "name": "Conad",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5711861,
+          44.0600954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12462755175,
+        "tipo": "supermercato",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 08:00-20:30; Su 09:00-20:00; PH 09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5298502,
+          44.0873325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12716502707,
+        "tipo": "supermercato",
+        "name": "Tigotà",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5673296,
+          44.0612622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12907524101,
+        "tipo": "supermercato",
+        "name": "Crosta e Muliga, la bottega bio",
+        "opening_hours": "Mo, We, Fr 07:45-13:00, 16:30-19:15; Tu, Th 07:45-13:00; Sa 07:45-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5631535,
+          44.0651995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13040677446,
+        "tipo": "supermercato",
+        "name": "Conad Superstore",
+        "opening_hours": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.538515,
+          44.0827525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223792779,
+        "tipo": "centro_commerciale",
+        "name": "Centro Commerciale I Malatesta"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5274785,
+              44.0677892
+            ],
+            [
+              12.5275171,
+              44.0678553
+            ],
+            [
+              12.527568,
+              44.0678962
+            ],
+            [
+              12.5276145,
+              44.0679222
+            ],
+            [
+              12.5276776,
+              44.0679352
+            ],
+            [
+              12.5277351,
+              44.067929
+            ],
+            [
+              12.5278314,
+              44.067898
+            ],
+            [
+              12.5278604,
+              44.0679448
+            ],
+            [
+              12.5279154,
+              44.0679271
+            ],
+            [
+              12.5279427,
+              44.0679707
+            ],
+            [
+              12.5280019,
+              44.0680653
+            ],
+            [
+              12.5280086,
+              44.0680775
+            ],
+            [
+              12.5286265,
+              44.0678784
+            ],
+            [
+              12.5302055,
+              44.0681369
+            ],
+            [
+              12.5303837,
+              44.0675546
+            ],
+            [
+              12.5304699,
+              44.0675494
+            ],
+            [
+              12.5304584,
+              44.0673552
+            ],
+            [
+              12.5304877,
+              44.067267
+            ],
+            [
+              12.5303578,
+              44.0670614
+            ],
+            [
+              12.5303032,
+              44.0670756
+            ],
+            [
+              12.5292088,
+              44.0668974
+            ],
+            [
+              12.5275983,
+              44.0674162
+            ],
+            [
+              12.5276848,
+              44.0675529
+            ],
+            [
+              12.5277206,
+              44.0676095
+            ],
+            [
+              12.5276391,
+              44.067637
+            ],
+            [
+              12.5275646,
+              44.0676642
+            ],
+            [
+              12.5275079,
+              44.0677009
+            ],
+            [
+              12.5274796,
+              44.0677492
+            ],
+            [
+              12.5274785,
+              44.0677892
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223794826,
+        "tipo": "supermercato",
+        "name": "Tuodì"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5072035,
+              44.0810495
+            ],
+            [
+              12.5075848,
+              44.0810398
+            ],
+            [
+              12.5075754,
+              44.080819
+            ],
+            [
+              12.5071909,
+              44.0808286
+            ],
+            [
+              12.5072035,
+              44.0810495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223797792,
+        "tipo": "supermercato",
+        "name": "A&O"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5307282,
+              44.0841644
+            ],
+            [
+              12.530866,
+              44.0842536
+            ],
+            [
+              12.5308225,
+              44.0842883
+            ],
+            [
+              12.5309298,
+              44.0843577
+            ],
+            [
+              12.5310727,
+              44.0842438
+            ],
+            [
+              12.5308276,
+              44.0840852
+            ],
+            [
+              12.5307282,
+              44.0841644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223797964,
+        "tipo": "supermercato",
+        "name": "In's Mercato"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5511103,
+              44.0687624
+            ],
+            [
+              12.5511897,
+              44.0689279
+            ],
+            [
+              12.5512985,
+              44.0689007
+            ],
+            [
+              12.5513235,
+              44.0689529
+            ],
+            [
+              12.5514247,
+              44.0689276
+            ],
+            [
+              12.5514473,
+              44.0689748
+            ],
+            [
+              12.5514663,
+              44.0689701
+            ],
+            [
+              12.5516872,
+              44.0689149
+            ],
+            [
+              12.5515601,
+              44.0686502
+            ],
+            [
+              12.5511103,
+              44.0687624
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223809199,
+        "tipo": "supermercato",
+        "name": "Coop"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.617621,
+              44.0317462
+            ],
+            [
+              12.6180785,
+              44.0320408
+            ],
+            [
+              12.6182182,
+              44.0319281
+            ],
+            [
+              12.6177606,
+              44.0316334
+            ],
+            [
+              12.617621,
+              44.0317462
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223826994,
+        "tipo": "supermercato",
+        "name": "Conad"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5840991,
+              44.0638198
+            ],
+            [
+              12.5844016,
+              44.0640088
+            ],
+            [
+              12.5843636,
+              44.064038
+            ],
+            [
+              12.5846466,
+              44.064217
+            ],
+            [
+              12.5847184,
+              44.0641579
+            ],
+            [
+              12.5847768,
+              44.0641099
+            ],
+            [
+              12.584848,
+              44.0640514
+            ],
+            [
+              12.584511,
+              44.0638384
+            ],
+            [
+              12.5845258,
+              44.0638263
+            ],
+            [
+              12.5842776,
+              44.0636712
+            ],
+            [
+              12.5840991,
+              44.0638198
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223831021,
+        "tipo": "supermercato",
+        "name": "Coop"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5848562,
+              44.0508574
+            ],
+            [
+              12.5852763,
+              44.0511025
+            ],
+            [
+              12.585483,
+              44.0509193
+            ],
+            [
+              12.585249,
+              44.0507828
+            ],
+            [
+              12.5853204,
+              44.0507196
+            ],
+            [
+              12.5851344,
+              44.050611
+            ],
+            [
+              12.5848562,
+              44.0508574
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223831028,
+        "tipo": "supermercato",
+        "name": "Conad City"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5718745,
+              44.0528553
+            ],
+            [
+              12.5721203,
+              44.0530583
+            ],
+            [
+              12.5722951,
+              44.0529481
+            ],
+            [
+              12.5720492,
+              44.0527451
+            ],
+            [
+              12.5718745,
+              44.0528553
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223834976,
+        "tipo": "supermercato",
+        "name": "In's Mercato"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5823849,
+              44.0468844
+            ],
+            [
+              12.5827934,
+              44.0472002
+            ],
+            [
+              12.5830144,
+              44.0470525
+            ],
+            [
+              12.5826059,
+              44.0467367
+            ],
+            [
+              12.5823849,
+              44.0468844
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223837058,
+        "tipo": "mercato",
+        "name": "Mercato Centrale Coperto \"San Francesco\""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.571274,
+              44.0597195
+            ],
+            [
+              12.5708875,
+              44.060068
+            ],
+            [
+              12.5708547,
+              44.0601093
+            ],
+            [
+              12.5711091,
+              44.0602597
+            ],
+            [
+              12.5711775,
+              44.0602498
+            ],
+            [
+              12.5713252,
+              44.0601185
+            ],
+            [
+              12.5716891,
+              44.0597949
+            ],
+            [
+              12.5717208,
+              44.0598092
+            ],
+            [
+              12.5717466,
+              44.0597843
+            ],
+            [
+              12.5717853,
+              44.0597468
+            ],
+            [
+              12.5718377,
+              44.0597789
+            ],
+            [
+              12.5719315,
+              44.059752
+            ],
+            [
+              12.5719851,
+              44.0597043
+            ],
+            [
+              12.5721594,
+              44.0595492
+            ],
+            [
+              12.5721745,
+              44.0594704
+            ],
+            [
+              12.572104,
+              44.0594315
+            ],
+            [
+              12.571737,
+              44.0592289
+            ],
+            [
+              12.571274,
+              44.0597195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223842876,
+        "tipo": "centro_commerciale",
+        "name": "Le Befane"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5848642,
+              44.0406551
+            ],
+            [
+              12.5851212,
+              44.040703
+            ],
+            [
+              12.5851345,
+              44.0406659
+            ],
+            [
+              12.5858158,
+              44.0407916
+            ],
+            [
+              12.5858464,
+              44.0408016
+            ],
+            [
+              12.5860294,
+              44.0408356
+            ],
+            [
+              12.5860408,
+              44.0408037
+            ],
+            [
+              12.5861147,
+              44.0408175
+            ],
+            [
+              12.5861407,
+              44.0408223
+            ],
+            [
+              12.5861749,
+              44.0408541
+            ],
+            [
+              12.5862469,
+              44.0408795
+            ],
+            [
+              12.5863059,
+              44.0408785
+            ],
+            [
+              12.5863513,
+              44.0408698
+            ],
+            [
+              12.5864056,
+              44.0408482
+            ],
+            [
+              12.5864496,
+              44.0408564
+            ],
+            [
+              12.5865696,
+              44.04087
+            ],
+            [
+              12.5865936,
+              44.0408695
+            ],
+            [
+              12.5866474,
+              44.0408683
+            ],
+            [
+              12.586712,
+              44.0408634
+            ],
+            [
+              12.5868168,
+              44.0408457
+            ],
+            [
+              12.5869134,
+              44.0408198
+            ],
+            [
+              12.5869505,
+              44.0408293
+            ],
+            [
+              12.5869888,
+              44.0408324
+            ],
+            [
+              12.5870186,
+              44.0408293
+            ],
+            [
+              12.5870413,
+              44.0408243
+            ],
+            [
+              12.5870616,
+              44.0408045
+            ],
+            [
+              12.5871484,
+              44.0408206
+            ],
+            [
+              12.5871628,
+              44.0407801
+            ],
+            [
+              12.5872418,
+              44.0407948
+            ],
+            [
+              12.5872488,
+              44.0407753
+            ],
+            [
+              12.587347,
+              44.0407936
+            ],
+            [
+              12.587365,
+              44.0407429
+            ],
+            [
+              12.5875202,
+              44.0403208
+            ],
+            [
+              12.587665,
+              44.0403478
+            ],
+            [
+              12.5876764,
+              44.040316
+            ],
+            [
+              12.5875489,
+              44.0402923
+            ],
+            [
+              12.5875638,
+              44.0402508
+            ],
+            [
+              12.5877371,
+              44.0402831
+            ],
+            [
+              12.5877733,
+              44.0401818
+            ],
+            [
+              12.5878111,
+              44.0400762
+            ],
+            [
+              12.5877686,
+              44.0400683
+            ],
+            [
+              12.5878225,
+              44.0399177
+            ],
+            [
+              12.5876823,
+              44.0398916
+            ],
+            [
+              12.5876674,
+              44.0399333
+            ],
+            [
+              12.5875922,
+              44.0399193
+            ],
+            [
+              12.5876569,
+              44.0397384
+            ],
+            [
+              12.5875946,
+              44.0397268
+            ],
+            [
+              12.587703,
+              44.039424
+            ],
+            [
+              12.5877635,
+              44.0394352
+            ],
+            [
+              12.5878008,
+              44.039331
+            ],
+            [
+              12.5880181,
+              44.0393714
+            ],
+            [
+              12.5880901,
+              44.0391702
+            ],
+            [
+              12.588153,
+              44.0391819
+            ],
+            [
+              12.5882248,
+              44.0389813
+            ],
+            [
+              12.5880418,
+              44.0389472
+            ],
+            [
+              12.5882052,
+              44.038491
+            ],
+            [
+              12.5883312,
+              44.0385145
+            ],
+            [
+              12.5883394,
+              44.0384917
+            ],
+            [
+              12.5882188,
+              44.0384692
+            ],
+            [
+              12.5882296,
+              44.0384391
+            ],
+            [
+              12.5882389,
+              44.0384133
+            ],
+            [
+              12.5873918,
+              44.0382555
+            ],
+            [
+              12.5871305,
+              44.0389855
+            ],
+            [
+              12.5870835,
+              44.0389768
+            ],
+            [
+              12.5870763,
+              44.038997
+            ],
+            [
+              12.5855406,
+              44.0387108
+            ],
+            [
+              12.5854605,
+              44.0386959
+            ],
+            [
+              12.5853578,
+              44.0389973
+            ],
+            [
+              12.5856593,
+              44.0390535
+            ],
+            [
+              12.5855812,
+              44.0392714
+            ],
+            [
+              12.5854159,
+              44.0392406
+            ],
+            [
+              12.5854073,
+              44.0392646
+            ],
+            [
+              12.5855686,
+              44.0392947
+            ],
+            [
+              12.5854177,
+              44.0397161
+            ],
+            [
+              12.5850331,
+              44.0396444
+            ],
+            [
+              12.5849424,
+              44.0398976
+            ],
+            [
+              12.5848601,
+              44.0398823
+            ],
+            [
+              12.5848403,
+              44.0399376
+            ],
+            [
+              12.5864704,
+              44.0402413
+            ],
+            [
+              12.5865117,
+              44.0401259
+            ],
+            [
+              12.5866074,
+              44.0401437
+            ],
+            [
+              12.5865038,
+              44.0404331
+            ],
+            [
+              12.5864333,
+              44.0404199
+            ],
+            [
+              12.5864504,
+              44.0403723
+            ],
+            [
+              12.5862551,
+              44.0403359
+            ],
+            [
+              12.5862233,
+              44.0403903
+            ],
+            [
+              12.585295,
+              44.0402179
+            ],
+            [
+              12.5853083,
+              44.0401807
+            ],
+            [
+              12.5850512,
+              44.0401328
+            ],
+            [
+              12.5848642,
+              44.0406551
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 238119643,
+        "tipo": "centro_commerciale",
+        "name": "Sacramora"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5385708,
+              44.0825322
+            ],
+            [
+              12.5386314,
+              44.0824878
+            ],
+            [
+              12.5382989,
+              44.0822531
+            ],
+            [
+              12.5382775,
+              44.0822531
+            ],
+            [
+              12.5382512,
+              44.08226
+            ],
+            [
+              12.5381726,
+              44.0823175
+            ],
+            [
+              12.5381511,
+              44.0823024
+            ],
+            [
+              12.5378789,
+              44.0825015
+            ],
+            [
+              12.5379032,
+              44.0825186
+            ],
+            [
+              12.5378633,
+              44.0825478
+            ],
+            [
+              12.5383282,
+              44.0828758
+            ],
+            [
+              12.5383541,
+              44.0828942
+            ],
+            [
+              12.5383934,
+              44.0829219
+            ],
+            [
+              12.5383688,
+              44.0829398
+            ],
+            [
+              12.5383811,
+              44.0829484
+            ],
+            [
+              12.5386708,
+              44.083153
+            ],
+            [
+              12.5388253,
+              44.0830401
+            ],
+            [
+              12.538873,
+              44.0830052
+            ],
+            [
+              12.5389211,
+              44.08297
+            ],
+            [
+              12.5390537,
+              44.0828731
+            ],
+            [
+              12.5387161,
+              44.0826348
+            ],
+            [
+              12.5385708,
+              44.0825322
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 955758139,
+        "tipo": "supermercato",
+        "name": "ALDI"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.6113669,
+              44.0284297
+            ],
+            [
+              12.6112988,
+              44.0283727
+            ],
+            [
+              12.6111443,
+              44.0282436
+            ],
+            [
+              12.6118084,
+              44.0278328
+            ],
+            [
+              12.6120786,
+              44.0280585
+            ],
+            [
+              12.6119342,
+              44.0281478
+            ],
+            [
+              12.6118867,
+              44.0281081
+            ],
+            [
+              12.6113669,
+              44.0284297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1205983347,
+        "tipo": "supermercato",
+        "name": "Lidl"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5408312,
+              44.0543716
+            ],
+            [
+              12.5410195,
+              44.054245
+            ],
+            [
+              12.540998,
+              44.0542285
+            ],
+            [
+              12.5410458,
+              44.0541964
+            ],
+            [
+              12.5410208,
+              44.0541772
+            ],
+            [
+              12.5410902,
+              44.0541306
+            ],
+            [
+              12.5409755,
+              44.0540424
+            ],
+            [
+              12.5407758,
+              44.0538889
+            ],
+            [
+              12.5407282,
+              44.0539209
+            ],
+            [
+              12.540653,
+              44.0538631
+            ],
+            [
+              12.5403348,
+              44.0540769
+            ],
+            [
+              12.5404163,
+              44.0541396
+            ],
+            [
+              12.5404765,
+              44.0540991
+            ],
+            [
+              12.5408312,
+              44.0543716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1371854753,
+        "tipo": "supermercato",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5807296,
+              44.0550107
+            ],
+            [
+              12.5811359,
+              44.0546263
+            ],
+            [
+              12.5804175,
+              44.0542341
+            ],
+            [
+              12.5800112,
+              44.0546186
+            ],
+            [
+              12.5807296,
+              44.0550107
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

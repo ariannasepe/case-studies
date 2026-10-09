@@ -1,0 +1,1519 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309348,
+        "tipo": "farmacia",
+        "name": "Farmacia Miramare",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6204862,
+          44.0320898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 690456250,
+        "tipo": "farmacia",
+        "name": "Parafarmacia",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.578756,
+          44.0703017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1412365243,
+        "tipo": "farmacia",
+        "name": "",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5651145,
+          44.0703283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1412365312,
+        "tipo": "farmacia",
+        "name": "Arrigoni Farmacia",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5547209,
+          44.0768614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1599704135,
+        "tipo": "farmacia",
+        "name": "Farmacia Comunale n. 6",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5643398,
+          44.0465799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1934414893,
+        "tipo": "ospedale",
+        "name": "Ospedale dei villeggianti",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.591387,
+          44.0592602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2262896788,
+        "tipo": "farmacia",
+        "name": "Al Lido",
+        "phone": "+39 0541 39 0640",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5851575,
+          44.0636858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718113516,
+        "tipo": "farmacia",
+        "name": "San Michele",
+        "phone": "+39 0541 78 5080",
+        "emergency": "",
+        "website": "https://www.farmaciasanmichelerimini.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5630677,
+          44.0610744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718116107,
+        "tipo": "farmacia",
+        "name": "",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5463154,
+          44.0568179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718118001,
+        "tipo": "farmacia",
+        "name": "Alma Farmacie Rivazzurra",
+        "phone": "+39 0541 372 352",
+        "emergency": "",
+        "website": "https://www.farmaciarivazzurra.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6127497,
+          44.0384716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718121562,
+        "tipo": "farmacia",
+        "name": "Comunali Rimini 2",
+        "phone": "+390541771446",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.556489,
+          44.0494073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718123639,
+        "tipo": "clinica",
+        "name": "Studio Chrysalis",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5543321,
+          44.0545042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718126669,
+        "tipo": "clinica",
+        "name": "Poliambulatorio Malatesta",
+        "phone": "+390541782751",
+        "emergency": "",
+        "website": "https://www.poliambulatoriomalatesta.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5417354,
+          44.0570527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718127721,
+        "tipo": "clinica",
+        "name": "Nuova Ricerca",
+        "phone": "",
+        "emergency": "",
+        "website": "https://www.nuovaricerca.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.591432,
+          44.0456369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718127725,
+        "tipo": "farmacia",
+        "name": "Farmacia Bellariva",
+        "phone": "+39 0541 380218",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.591672,
+          44.0455975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718136205,
+        "tipo": "farmacia",
+        "name": "Cantelli",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683798,
+          44.0590644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718139751,
+        "tipo": "farmacia",
+        "name": "Parafarmacia del Castello",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5638511,
+          44.0590513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718142255,
+        "tipo": "clinica",
+        "name": "Poliambulatorio San Nicolò",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.571301,
+          44.0645754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718145761,
+        "tipo": "farmacia",
+        "name": "San Gaudenzo",
+        "phone": "+390541785570",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5362671,
+          44.0563182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718147057,
+        "tipo": "clinica",
+        "name": "Villa Maria",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5649828,
+          44.0655368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718151062,
+        "tipo": "medico",
+        "name": "",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5717209,
+          44.0559284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718153102,
+        "tipo": "clinica",
+        "name": "Centro Integrato di Neuroscienze",
+        "phone": "+39 0541 29 417",
+        "emergency": "",
+        "website": "https://www.poliambulatoriocin.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5661689,
+          44.0565416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718154773,
+        "tipo": "farmacia",
+        "name": "Grotta Rossa",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5543595,
+          44.036321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718155110,
+        "tipo": "farmacia",
+        "name": "Farmacia Comunale San Francesco",
+        "phone": "",
+        "emergency": "",
+        "website": "https://www.alliancefarmacie.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5715148,
+          44.0589664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718160173,
+        "tipo": "farmacia",
+        "name": "Farmacia Comunale",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5735451,
+          44.0623454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718164223,
+        "tipo": "medico",
+        "name": "M. Cortellini",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5714943,
+          44.0582633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718165606,
+        "tipo": "farmacia",
+        "name": "farmacia Valentini",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4827059,
+          44.0683112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718167686,
+        "tipo": "farmacia",
+        "name": "Parafarmacia Nanni Nicola",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5880766,
+          44.0609613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718172409,
+        "tipo": "farmacia",
+        "name": "Armonia e Salute",
+        "phone": "+39 0541 39 4157",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.589247,
+          44.0544434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718184569,
+        "tipo": "farmacia",
+        "name": "Regina Elena",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5909072,
+          44.0585567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718185290,
+        "tipo": "farmacia",
+        "name": "Margherita",
+        "phone": "+390541786381",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4996311,
+          44.0456961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718186073,
+        "tipo": "farmacia",
+        "name": "Farmacia Della Riviera",
+        "phone": "+39 0541 417 021",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6170617,
+          44.0277831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718195213,
+        "tipo": "farmacia",
+        "name": "Farmacia Corpolò",
+        "phone": "+39 0541 75 01 13",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4528267,
+          44.0197606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718198480,
+        "tipo": "farmacia",
+        "name": "Deluigi",
+        "phone": "+390541790055",
+        "emergency": "",
+        "website": "https://www.farmaciadeluigi.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5529501,
+          44.0522377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718198579,
+        "tipo": "farmacia",
+        "name": "Donati Merlini",
+        "phone": "+39 0541 38 1554",
+        "emergency": "",
+        "website": "https://www.farmaciadonatimerlini.it/la-farmacia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5839418,
+          44.055094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718198580,
+        "tipo": "farmacia",
+        "name": "Dispensario Farmaceutico stagionale di Marebello",
+        "phone": "+39 0541 378076",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.606458,
+          44.0438631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718198644,
+        "tipo": "clinica",
+        "name": "",
+        "phone": "+39 0541 1520505",
+        "emergency": "no",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5615893,
+          44.0565822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718199529,
+        "tipo": "farmacia",
+        "name": "Marina Centro",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5809132,
+          44.0674151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718201302,
+        "tipo": "farmacia",
+        "name": "Farmacia Villaggio Nuovo",
+        "phone": "+39 0541 373196",
+        "emergency": "",
+        "website": "https://www.farmaciavillaggionuovo.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6033554,
+          44.0340598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718207936,
+        "tipo": "farmacia",
+        "name": "Farmacia Centrale",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5387427,
+          44.087655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718208353,
+        "tipo": "farmacia",
+        "name": "Duprè",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.567826,
+          44.0597784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2718212721,
+        "tipo": "clinica",
+        "name": "Arbor Vitae",
+        "phone": "+39 0541 24 822",
+        "emergency": "",
+        "website": "https://www.centroarborvitae.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5752362,
+          44.0688938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4257815995,
+        "tipo": "farmacia",
+        "name": "Farmacia Lido",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5135259,
+          44.1064753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4293721389,
+        "tipo": "farmacia",
+        "name": "Chemia fort. Stefano G. Bianchi",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5958242,
+          44.0532947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4344991396,
+        "tipo": "farmacia",
+        "name": "",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6192758,
+          44.0307319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4358908097,
+        "tipo": "farmacia",
+        "name": "Versari",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5626495,
+          44.0647401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4358976701,
+        "tipo": "farmacia",
+        "name": "Vallesi",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5696211,
+          44.058163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4960556809,
+        "tipo": "farmacia",
+        "name": "Farmacia Regina",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6003499,
+          44.0490441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4960598613,
+        "tipo": "farmacia",
+        "name": "",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6000971,
+          44.0391723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5175049922,
+        "tipo": "medico",
+        "name": "Doctor Orazio",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5717076,
+          44.055997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5175054138,
+        "tipo": "medico",
+        "name": "Cardologia",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5711937,
+          44.0608213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5809998710,
+        "tipo": "farmacia",
+        "name": "",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5736369,
+          44.0542618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6417449880,
+        "tipo": "farmacia",
+        "name": "Farmacia Viserbella",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5273236,
+          44.0957683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7512115514,
+        "tipo": "farmacia",
+        "name": "Parafarmacia Conad",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5674352,
+          44.0490635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7512177059,
+        "tipo": "farmacia",
+        "name": "Parafarmacia Conad",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5877744,
+          44.039003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10007134454,
+        "tipo": "farmacia",
+        "name": "",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5300899,
+          44.0934525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10243368967,
+        "tipo": "farmacia",
+        "name": "Parafarmacia Tenti Rivazzurra",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6066935,
+          44.0353095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10247195527,
+        "tipo": "farmacia",
+        "name": "centrale Rimini",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5671937,
+          44.0621237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10284942700,
+        "tipo": "farmacia",
+        "name": "Farmacia Comunale 9",
+        "phone": "+39 0541 1780898",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5869012,
+          44.0391767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11068743558,
+        "tipo": "clinica",
+        "name": "Athena",
+        "phone": "+390541395599",
+        "emergency": "",
+        "website": "https://www.athenacentromedico.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.582978,
+          44.0407481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11158598660,
+        "tipo": "farmacia",
+        "name": "Farmacia Kursaal",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5788563,
+          44.0688616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12567484718,
+        "tipo": "farmacia",
+        "name": "",
+        "phone": "+39 0541 259 24",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.52511,
+          44.0848279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13649220126,
+        "tipo": "farmacia",
+        "name": "",
+        "phone": "",
+        "emergency": "",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5277625,
+          44.0675479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26036682,
+        "tipo": "ospedale",
+        "name": "Ospedale Infermi Rimini",
+        "emergency": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5851942,
+              44.0453598
+            ],
+            [
+              12.5859962,
+              44.0463053
+            ],
+            [
+              12.5859584,
+              44.0463767
+            ],
+            [
+              12.5854433,
+              44.0466526
+            ],
+            [
+              12.5862917,
+              44.0473722
+            ],
+            [
+              12.5874359,
+              44.0483378
+            ],
+            [
+              12.5875168,
+              44.0484977
+            ],
+            [
+              12.588582,
+              44.0476643
+            ],
+            [
+              12.5885909,
+              44.0476745
+            ],
+            [
+              12.5885994,
+              44.0476809
+            ],
+            [
+              12.5886119,
+              44.0476904
+            ],
+            [
+              12.5886366,
+              44.0477029
+            ],
+            [
+              12.5886645,
+              44.0477116
+            ],
+            [
+              12.5886868,
+              44.047717
+            ],
+            [
+              12.5887112,
+              44.0477187
+            ],
+            [
+              12.5887365,
+              44.0477168
+            ],
+            [
+              12.5887655,
+              44.0477094
+            ],
+            [
+              12.5887925,
+              44.0476995
+            ],
+            [
+              12.5888163,
+              44.0476859
+            ],
+            [
+              12.5888358,
+              44.0476692
+            ],
+            [
+              12.5888503,
+              44.04765
+            ],
+            [
+              12.5888592,
+              44.0476291
+            ],
+            [
+              12.5888915,
+              44.0476147
+            ],
+            [
+              12.5889444,
+              44.0475975
+            ],
+            [
+              12.5890175,
+              44.0475624
+            ],
+            [
+              12.589154,
+              44.0475154
+            ],
+            [
+              12.5893458,
+              44.0474435
+            ],
+            [
+              12.5893802,
+              44.0474306
+            ],
+            [
+              12.5894148,
+              44.0474155
+            ],
+            [
+              12.5896198,
+              44.047343
+            ],
+            [
+              12.5896835,
+              44.0473124
+            ],
+            [
+              12.5897083,
+              44.0473002
+            ],
+            [
+              12.5906643,
+              44.0465473
+            ],
+            [
+              12.5907297,
+              44.0464822
+            ],
+            [
+              12.5907783,
+              44.046417
+            ],
+            [
+              12.5908103,
+              44.0463426
+            ],
+            [
+              12.5908119,
+              44.0462657
+            ],
+            [
+              12.5904551,
+              44.0460476
+            ],
+            [
+              12.5898498,
+              44.0457165
+            ],
+            [
+              12.5896303,
+              44.0455745
+            ],
+            [
+              12.5896162,
+              44.0455505
+            ],
+            [
+              12.589478,
+              44.0454593
+            ],
+            [
+              12.5898437,
+              44.0451745
+            ],
+            [
+              12.590376,
+              44.0447568
+            ],
+            [
+              12.5905375,
+              44.0445558
+            ],
+            [
+              12.5902614,
+              44.0435825
+            ],
+            [
+              12.590025,
+              44.0435184
+            ],
+            [
+              12.5887134,
+              44.0443819
+            ],
+            [
+              12.5884849,
+              44.0442115
+            ],
+            [
+              12.5881887,
+              44.0444015
+            ],
+            [
+              12.5876623,
+              44.0447362
+            ],
+            [
+              12.5866164,
+              44.0453772
+            ],
+            [
+              12.5865318,
+              44.0453184
+            ],
+            [
+              12.5856573,
+              44.0447265
+            ],
+            [
+              12.5852592,
+              44.044968
+            ],
+            [
+              12.585239,
+              44.0449936
+            ],
+            [
+              12.5852294,
+              44.0450199
+            ],
+            [
+              12.5852274,
+              44.0450558
+            ],
+            [
+              12.5852342,
+              44.0450863
+            ],
+            [
+              12.5853098,
+              44.0452003
+            ],
+            [
+              12.585317,
+              44.0452195
+            ],
+            [
+              12.5853144,
+              44.045244
+            ],
+            [
+              12.5853073,
+              44.0452839
+            ],
+            [
+              12.5851942,
+              44.0453598
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1206104530,
+        "tipo": "ospedale",
+        "name": "Sol et salus",
+        "emergency": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5042184,
+              44.114056
+            ],
+            [
+              12.5035317,
+              44.1136597
+            ],
+            [
+              12.504042,
+              44.1131965
+            ],
+            [
+              12.5035048,
+              44.1127585
+            ],
+            [
+              12.5031078,
+              44.1131322
+            ],
+            [
+              12.5031678,
+              44.1131716
+            ],
+            [
+              12.502916,
+              44.1134015
+            ],
+            [
+              12.5030267,
+              44.1134668
+            ],
+            [
+              12.5025057,
+              44.1139395
+            ],
+            [
+              12.5023844,
+              44.1138686
+            ],
+            [
+              12.5022793,
+              44.113968
+            ],
+            [
+              12.5023769,
+              44.1140227
+            ],
+            [
+              12.5023179,
+              44.1140766
+            ],
+            [
+              12.502496,
+              44.1141832
+            ],
+            [
+              12.502449,
+              44.1142246
+            ],
+            [
+              12.5020624,
+              44.1139985
+            ],
+            [
+              12.5018099,
+              44.1142167
+            ],
+            [
+              12.5023854,
+              44.1145531
+            ],
+            [
+              12.5024552,
+              44.1144885
+            ],
+            [
+              12.502679,
+              44.1146132
+            ],
+            [
+              12.5028612,
+              44.1144592
+            ],
+            [
+              12.5034062,
+              44.114783
+            ],
+            [
+              12.5042184,
+              44.114056
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

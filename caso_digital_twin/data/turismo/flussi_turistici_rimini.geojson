@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mese": "Gennaio",
+        "arrivi": 18500,
+        "presenze": 52000,
+        "permanenza_media": 2.8,
+        "tipo": "flusso_mensile",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.0678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mese": "Febbraio",
+        "arrivi": 22000,
+        "presenze": 61000,
+        "permanenza_media": 2.8,
+        "tipo": "flusso_mensile",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.0678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mese": "Marzo",
+        "arrivi": 35000,
+        "presenze": 98000,
+        "permanenza_media": 2.8,
+        "tipo": "flusso_mensile",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.0678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mese": "Aprile",
+        "arrivi": 85000,
+        "presenze": 290000,
+        "permanenza_media": 3.4,
+        "tipo": "flusso_mensile",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.0678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mese": "Maggio",
+        "arrivi": 120000,
+        "presenze": 420000,
+        "permanenza_media": 3.5,
+        "tipo": "flusso_mensile",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.0678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mese": "Giugno",
+        "arrivi": 210000,
+        "presenze": 890000,
+        "permanenza_media": 4.2,
+        "tipo": "flusso_mensile",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.0678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mese": "Luglio",
+        "arrivi": 380000,
+        "presenze": 1850000,
+        "permanenza_media": 4.9,
+        "tipo": "flusso_mensile",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.0678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mese": "Agosto",
+        "arrivi": 420000,
+        "presenze": 2100000,
+        "permanenza_media": 5.0,
+        "tipo": "flusso_mensile",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.0678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mese": "Settembre",
+        "arrivi": 180000,
+        "presenze": 720000,
+        "permanenza_media": 4.0,
+        "tipo": "flusso_mensile",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.0678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mese": "Ottobre",
+        "arrivi": 65000,
+        "presenze": 195000,
+        "permanenza_media": 3.0,
+        "tipo": "flusso_mensile",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.0678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mese": "Novembre",
+        "arrivi": 28000,
+        "presenze": 72000,
+        "permanenza_media": 2.6,
+        "tipo": "flusso_mensile",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.0678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mese": "Dicembre",
+        "arrivi": 32000,
+        "presenze": 89000,
+        "permanenza_media": 2.8,
+        "tipo": "flusso_mensile",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.0678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "paese": "Italia",
+        "percentuale": 62,
+        "tipo": "provenienza",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "paese": "Germania",
+        "percentuale": 12,
+        "tipo": "provenienza",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "paese": "Austria",
+        "percentuale": 5,
+        "tipo": "provenienza",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "paese": "Svizzera",
+        "percentuale": 4,
+        "tipo": "provenienza",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "paese": "Polonia",
+        "percentuale": 3,
+        "tipo": "provenienza",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "paese": "Altri paesi",
+        "percentuale": 14,
+        "tipo": "provenienza",
+        "fonte": "Regione Emilia-Romagna - Osservatorio Turistico 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.062
+        ]
+      }
+    }
+  ]
+}

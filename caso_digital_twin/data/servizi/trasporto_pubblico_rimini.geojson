@@ -1,0 +1,7529 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 251338206,
+        "tipo": "stazione_ferroviaria",
+        "name": "Rimini Viserba",
+        "ref": "",
+        "operator": "RFI",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5339849,
+          44.0882471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 251338211,
+        "tipo": "stazione_ferroviaria",
+        "name": "Rimini Torre Pedrera",
+        "ref": "",
+        "operator": "RFI",
+        "network": "RFI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5086943,
+          44.1069462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 294065215,
+        "tipo": "stazione_ferroviaria",
+        "name": "Rimini Miramare",
+        "ref": "",
+        "operator": "RFI",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.618277,
+          44.0302541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315013158,
+        "tipo": "stazione_ferroviaria",
+        "name": "RiminiFiera",
+        "ref": "",
+        "operator": "RFI",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5254633,
+          44.0706761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315013159,
+        "tipo": "fermata_bus",
+        "name": "5 Cesare Battisti",
+        "ref": "5",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5708031,
+          44.0648509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315013160,
+        "tipo": "stazione_bus",
+        "name": "4 Rimini FS",
+        "ref": "4",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5731752,
+          44.0637977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309354,
+        "tipo": "fermata_bus",
+        "name": "Teramo",
+        "ref": "35",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6297313,
+          44.0251386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309355,
+        "tipo": "fermata_bus",
+        "name": "Talassoterapico",
+        "ref": "34",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6274082,
+          44.0269166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309357,
+        "tipo": "fermata_bus",
+        "name": "Adria",
+        "ref": "32",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6233559,
+          44.0301362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309359,
+        "tipo": "fermata_bus",
+        "name": "Oliveti",
+        "ref": "31",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6207379,
+          44.0322051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309361,
+        "tipo": "fermata_bus",
+        "name": "Gondar",
+        "ref": "22",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6016257,
+          44.0482529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309362,
+        "tipo": "fermata_bus",
+        "name": "Firenze",
+        "ref": "21",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5987557,
+          44.0507898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309363,
+        "tipo": "fermata_bus",
+        "name": "Neri",
+        "ref": "20",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5973016,
+          44.0522084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309364,
+        "tipo": "fermata_bus",
+        "name": "Goldoni",
+        "ref": "17",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5921031,
+          44.0572602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309368,
+        "tipo": "fermata_bus",
+        "name": "Lagomaggio",
+        "ref": "19",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5951155,
+          44.0543344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309374,
+        "tipo": "fermata_bus",
+        "name": "Derna",
+        "ref": "13",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5835664,
+          44.0653997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309378,
+        "tipo": "fermata_bus",
+        "name": "Kennedy",
+        "ref": "12",
+        "operator": "Start Romagna SpA",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5814237,
+          44.0672154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315309381,
+        "tipo": "fermata_bus",
+        "name": "Quattrocavalli",
+        "ref": "9",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5756989,
+          44.0704502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 800527554,
+        "tipo": "fermata_bus",
+        "name": "Rapallo",
+        "ref": "25",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6084652,
+          44.0422366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 800527586,
+        "tipo": "fermata_bus",
+        "name": "Rapallo",
+        "ref": "25",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6088138,
+          44.0420971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374270,
+        "tipo": "fermata_bus",
+        "name": "Adria",
+        "ref": "32",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6234689,
+          44.0298786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374273,
+        "tipo": "fermata_bus",
+        "name": "Alfieri",
+        "ref": "15",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5881929,
+          44.0609442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374274,
+        "tipo": "fermata_bus",
+        "name": "Alfieri",
+        "ref": "15",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5880752,
+          44.0612003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374279,
+        "tipo": "fermata_bus",
+        "name": "Bergamo",
+        "ref": "28",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6151546,
+          44.0365898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374280,
+        "tipo": "fermata_bus",
+        "name": "Bergamo",
+        "ref": "28",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.614749,
+          44.0370679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374296,
+        "tipo": "fermata_bus",
+        "name": "Derna",
+        "ref": "13",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5834774,
+          44.0653469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374297,
+        "tipo": "fermata_bus",
+        "name": "Firenze",
+        "ref": "21",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5996295,
+          44.0498095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374300,
+        "tipo": "fermata_bus",
+        "name": "Goldoni",
+        "ref": "17",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5923243,
+          44.0569091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374301,
+        "tipo": "fermata_bus",
+        "name": "Gondar",
+        "ref": "22",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6020665,
+          44.0477112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374306,
+        "tipo": "fermata_bus",
+        "name": "Grattacielo",
+        "ref": "7",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5723972,
+          44.0673128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374311,
+        "tipo": "fermata_bus",
+        "name": "Grattacielo",
+        "ref": "7",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5726139,
+          44.0673344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374314,
+        "tipo": "fermata_bus",
+        "name": "Gubbio",
+        "ref": "29",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6168503,
+          44.0351231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374318,
+        "tipo": "fermata_bus",
+        "name": "Gubbio",
+        "ref": "29",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6165339,
+          44.0355546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374320,
+        "tipo": "fermata_bus",
+        "name": "Kennedy",
+        "ref": "12",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.581021,
+          44.0674199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374321,
+        "tipo": "fermata_bus",
+        "name": "Lagomaggio",
+        "ref": "19",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5954075,
+          44.0539073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374326,
+        "tipo": "fermata_bus",
+        "name": "Marina Centro",
+        "ref": "10",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.578149,
+          44.0705534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374327,
+        "tipo": "fermata_bus",
+        "name": "Marina Centro",
+        "ref": "10",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5785289,
+          44.0702034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374331,
+        "tipo": "fermata_bus",
+        "name": "Miramare Camp",
+        "ref": "33",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6248472,
+          44.0287985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374332,
+        "tipo": "fermata_bus",
+        "name": "Miramare Camp",
+        "ref": "33",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6249655,
+          44.0288536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374333,
+        "tipo": "fermata_bus",
+        "name": "Neri",
+        "ref": "20",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5973481,
+          44.0520064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374336,
+        "tipo": "fermata_bus",
+        "name": "Oliveti",
+        "ref": "31",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6212282,
+          44.0316552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374339,
+        "tipo": "fermata_bus",
+        "name": "Pascoli",
+        "ref": "16",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.590432,
+          44.0587474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374340,
+        "tipo": "fermata_bus",
+        "name": "Pascoli",
+        "ref": "16",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5898869,
+          44.0594221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374343,
+        "tipo": "fermata_bus",
+        "name": "Pontinia",
+        "ref": "30",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6189007,
+          44.03345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374344,
+        "tipo": "fermata_bus",
+        "name": "Pontinia",
+        "ref": "30",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6183894,
+          44.0340207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374345,
+        "tipo": "fermata_bus",
+        "name": "Portofino",
+        "ref": "24",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6064998,
+          44.0439034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374346,
+        "tipo": "fermata_bus",
+        "name": "Portofino",
+        "ref": "24",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6064742,
+          44.0440697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374347,
+        "tipo": "fermata_bus",
+        "name": "Quattrocavalli",
+        "ref": "9",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5758253,
+          44.0704416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374349,
+        "tipo": "fermata_bus",
+        "name": "6 Rodi",
+        "ref": "6",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5705153,
+          44.0661974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374350,
+        "tipo": "fermata_bus",
+        "name": "6 Rodi",
+        "ref": "6",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5705498,
+          44.066321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374353,
+        "tipo": "fermata_bus",
+        "name": "San Francesco",
+        "ref": "23",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6041968,
+          44.0460148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374354,
+        "tipo": "fermata_bus",
+        "name": "San Francesco",
+        "ref": "23",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6038014,
+          44.0462081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374355,
+        "tipo": "fermata_bus",
+        "name": "San Girolamo",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.572117,
+          44.0615364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374356,
+        "tipo": "fermata_bus",
+        "name": "Sauro",
+        "ref": "8",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5739468,
+          44.0687859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374357,
+        "tipo": "fermata_bus",
+        "name": "Sauro",
+        "ref": "8",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5740972,
+          44.068789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374358,
+        "tipo": "fermata_bus",
+        "name": "Scilla",
+        "ref": "18",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5935895,
+          44.0556789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374359,
+        "tipo": "fermata_bus",
+        "name": "Scilla",
+        "ref": "18",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5936417,
+          44.0557626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374360,
+        "tipo": "fermata_bus",
+        "name": "Talassoterapico",
+        "ref": "34",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6278922,
+          44.0264321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374361,
+        "tipo": "fermata_bus",
+        "name": "Teramo",
+        "ref": "35",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6300146,
+          44.0247871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374364,
+        "tipo": "fermata_bus",
+        "name": "Tripoli",
+        "ref": "14",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5859749,
+          44.0630933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374365,
+        "tipo": "fermata_bus",
+        "name": "Tripoli",
+        "ref": "14",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5852901,
+          44.0639103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374366,
+        "tipo": "fermata_bus",
+        "name": "Vespucci",
+        "ref": "11",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5800677,
+          44.0686583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2292374367,
+        "tipo": "fermata_bus",
+        "name": "Vespucci",
+        "ref": "11",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5794429,
+          44.0692483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2294723991,
+        "tipo": "fermata_bus",
+        "name": "Toscanini",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5978567,
+          44.0491603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2294723992,
+        "tipo": "fermata_bus",
+        "name": "Fiabilandia",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6123611,
+          44.0347707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2294723994,
+        "tipo": "fermata_bus",
+        "name": "Lagomaggio",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5937575,
+          44.0534088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2294723996,
+        "tipo": "fermata_bus",
+        "name": "Miramare Station",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6178153,
+          44.0304579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2294723997,
+        "tipo": "fermata_bus",
+        "name": "Kennedy",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.579913,
+          44.0614054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2294723998,
+        "tipo": "fermata_bus",
+        "name": "Pascoli",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5884906,
+          44.0575968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2294724002,
+        "tipo": "fermata_bus",
+        "name": "Bellariva",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5999999,
+          44.0469482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2294724004,
+        "tipo": "fermata_bus",
+        "name": "Marebello",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6041045,
+          44.0426639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2294724033,
+        "tipo": "fermata_bus",
+        "name": "Miramare Airport",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.625627,
+          44.0241735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2324033379,
+        "tipo": "fermata_bus",
+        "name": "Rivazzurra",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6066971,
+          44.040024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2345443228,
+        "tipo": "fermata_bus",
+        "name": "Brindisi",
+        "ref": "26",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6106037,
+          44.0404307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2345443229,
+        "tipo": "fermata_bus",
+        "name": "Brindisi",
+        "ref": "26",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6105724,
+          44.0406109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2345443230,
+        "tipo": "fermata_bus",
+        "name": "Catania",
+        "ref": "27",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6132673,
+          44.0381741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2345443231,
+        "tipo": "fermata_bus",
+        "name": "Catania",
+        "ref": "27",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6122199,
+          44.0392144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2345464238,
+        "tipo": "fermata_bus",
+        "name": "Ospedale",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588733,
+          44.0482447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2345464239,
+        "tipo": "fermata_bus",
+        "name": "Ospedale",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5884521,
+          44.0484551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2345464240,
+        "tipo": "stazione_bus",
+        "name": "Rimini FS",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5722242,
+          44.0644504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2345534697,
+        "tipo": "fermata_bus",
+        "name": "Ospedale",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5893469,
+          44.0480092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2345648495,
+        "tipo": "fermata_bus",
+        "name": "Centrale ENEL",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5067538,
+          44.009025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2345648502,
+        "tipo": "fermata_bus",
+        "name": "Sauro-Mantegazza",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5750085,
+          44.0679648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2388718478,
+        "tipo": "terminal_traghetti",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5738517,
+          44.0743457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2388718486,
+        "tipo": "terminal_traghetti",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5733973,
+          44.0748021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2894543764,
+        "tipo": "fermata_bus",
+        "name": "Cividale",
+        "ref": "15",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5461865,
+          44.0828575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2894543765,
+        "tipo": "fermata_bus",
+        "name": "Dati-Pallotta",
+        "ref": "16",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5440294,
+          44.0842763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2894543776,
+        "tipo": "fermata_bus",
+        "name": "Sol et salus",
+        "ref": "33",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5036312,
+          44.1147255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2894543779,
+        "tipo": "fermata_bus",
+        "name": "San Bernardo",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5567046,
+          44.067354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2894543780,
+        "tipo": "fermata_bus",
+        "name": "Cimitero",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.550802,
+          44.0735105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2894543781,
+        "tipo": "fermata_bus",
+        "name": "12 Coletti - Avisio",
+        "ref": "12",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5540096,
+          44.0776267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2894543782,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5504024,
+          44.0777906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2894543783,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "13",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.551229,
+          44.0794832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2894543784,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "14",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5484394,
+          44.0813445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2894543785,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "17",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5415926,
+          44.0859269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4376992144,
+        "tipo": "fermata_bus",
+        "name": "P. Resistenza",
+        "ref": "",
+        "operator": "Start Romagna S.p.a",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683698,
+          44.068468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4376992145,
+        "tipo": "fermata_bus",
+        "name": "Coletti-Sforza",
+        "ref": "",
+        "operator": "Start Romagna S.p.a.",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5660878,
+          44.0695701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4380910730,
+        "tipo": "fermata_bus",
+        "name": "Gramsci S.Rita",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5732259,
+          44.05907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4380910731,
+        "tipo": "fermata_bus",
+        "name": "Arco d'Augusto",
+        "ref": "",
+        "operator": "Start Romagna S.p.a.",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5708027,
+          44.05621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4380910732,
+        "tipo": "fermata_bus",
+        "name": "Arco d'Augusto",
+        "ref": "",
+        "operator": "Start Romagna S.p.a.",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5718673,
+          44.0569135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4380910735,
+        "tipo": "fermata_bus",
+        "name": "Rimini FS",
+        "ref": "4",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5716625,
+          44.0647026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4380910738,
+        "tipo": "fermata_bus",
+        "name": "Rimini FS",
+        "ref": "",
+        "operator": "Start Romagna S.p.a.",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5729367,
+          44.0641246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4380910739,
+        "tipo": "fermata_bus",
+        "name": "Centro Studi",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5821623,
+          44.0501216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4380910744,
+        "tipo": "fermata_bus",
+        "name": "Centro Studi",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5824377,
+          44.0498817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4380910747,
+        "tipo": "fermata_bus",
+        "name": "Via Fada",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.581286,
+          44.049062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4381369259,
+        "tipo": "fermata_bus",
+        "name": "Flaminio",
+        "ref": "",
+        "operator": "Start Romagna S.p.a.",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5788888,
+          44.0489447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4381369260,
+        "tipo": "fermata_bus",
+        "name": "Flaminio",
+        "ref": "",
+        "operator": "Start Romagna S.p.a.",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5786775,
+          44.0488514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4437765632,
+        "tipo": "fermata_bus",
+        "name": "Emilia Fiera",
+        "ref": "",
+        "operator": "Start Romagna S.p.a.",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5274954,
+          44.0686283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4437765633,
+        "tipo": "fermata_bus",
+        "name": "Emilia Fiera",
+        "ref": "",
+        "operator": "Start Romagna S.p.a.",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5284935,
+          44.0687882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4437765634,
+        "tipo": "fermata_bus",
+        "name": "Norvegia",
+        "ref": "",
+        "operator": "Start Romagna S.p.a.",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5326469,
+          44.0683578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5045320125,
+        "tipo": "fermata_bus",
+        "name": "Tolemaide Spiaggia",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5044791,
+          44.1131709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5045320126,
+        "tipo": "fermata_bus",
+        "name": "Tolemaide Spiaggia",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5041248,
+          44.1131908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5066625788,
+        "tipo": "fermata_bus",
+        "name": "Della Gazzella",
+        "ref": "",
+        "operator": "Start Romagna S.p.A.",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5571879,
+          44.0356854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5066625789,
+        "tipo": "fermata_bus",
+        "name": "Pietrarubbia",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.524329,
+          44.055209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5066625790,
+        "tipo": "fermata_bus",
+        "name": "Pietrarubbia",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5248976,
+          44.0555375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5066625791,
+        "tipo": "fermata_bus",
+        "name": "Valturio Rotonda",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5620546,
+          44.0583165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5066625792,
+        "tipo": "fermata_bus",
+        "name": "Valturio Rotonda",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5621075,
+          44.0582353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5071482867,
+        "tipo": "fermata_bus",
+        "name": "Londra - Amsterdam",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6153953,
+          44.0313449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5071482868,
+        "tipo": "fermata_bus",
+        "name": "Londra - Amsterdam",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6151472,
+          44.0316708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5071482869,
+        "tipo": "fermata_bus",
+        "name": "Londra - Olivieti",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6165406,
+          44.0304014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5071482870,
+        "tipo": "fermata_bus",
+        "name": "Londra - Olivieti",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6163086,
+          44.03071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5071482871,
+        "tipo": "fermata_bus",
+        "name": "Lucerna",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6177187,
+          44.0294425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5071482872,
+        "tipo": "fermata_bus",
+        "name": "Lucerna",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6177254,
+          44.0295514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5180885721,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5391533,
+          44.0874639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5180885821,
+        "tipo": "fermata_bus",
+        "name": "16",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5464335,
+          44.0826013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5635298752,
+        "tipo": "fermata_bus",
+        "name": "Covignano Crucis",
+        "ref": "A00402",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.550962,
+          44.0412374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5635300326,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5139027,
+          44.0403184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5690912822,
+        "tipo": "fermata_bus",
+        "name": "Piazza Marvelli",
+        "ref": "",
+        "operator": "Bonelli Bus",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5855948,
+          44.0635752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5700075322,
+        "tipo": "stazione_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5753777,
+          44.060886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5815883559,
+        "tipo": "fermata_bus",
+        "name": "Celle - Cimitero",
+        "ref": "A00710",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5475976,
+          44.0693211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6025064352,
+        "tipo": "fermata_bus",
+        "name": "Rimini FS",
+        "ref": "",
+        "operator": "Bonelli Bus",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5726028,
+          44.0640618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6124212541,
+        "tipo": "fermata_bus",
+        "name": "Centro Studi",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5823441,
+          44.0498599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6416512878,
+        "tipo": "fermata_bus",
+        "name": "23 P. Palos - Bartoli",
+        "ref": "A00794",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5267142,
+          44.0961414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6625186919,
+        "tipo": "fermata_bus",
+        "name": "Arco d'Augusto",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5705615,
+          44.0573814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7115546817,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5937619,
+          44.0448113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7115546823,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5914417,
+          44.0466267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787392,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6144612,
+          44.0287993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787411,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6117133,
+          44.0310865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787412,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6092228,
+          44.0328066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787413,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6089734,
+          44.0331691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787414,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6078898,
+          44.0337804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787415,
+        "tipo": "fermata_bus",
+        "name": "Ambrosoli",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6068964,
+          44.034502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787418,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6046818,
+          44.0357183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787419,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6044646,
+          44.0356026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787429,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6013398,
+          44.0384603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787430,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6011628,
+          44.0383754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787433,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5982291,
+          44.0409898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787434,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5983485,
+          44.0411154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787437,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5954202,
+          44.0433682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7141787438,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5952995,
+          44.0437702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7706815318,
+        "tipo": "fermata_bus",
+        "name": "4 Rimini FS",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5733784,
+          44.0639266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8045289974,
+        "tipo": "fermata_bus",
+        "name": "24 A Serpieri Bartoli",
+        "ref": "A01018",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5244091,
+          44.0949969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9063260299,
+        "tipo": "fermata_bus",
+        "name": "Rimini, Catania",
+        "ref": "27",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6132907,
+          44.0382421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9141182064,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5800496,
+          44.0646963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9272821995,
+        "tipo": "fermata_bus",
+        "name": "Rimini Station",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5751805,
+          44.06298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9396526486,
+        "tipo": "fermata_bus",
+        "name": "Gaiofana",
+        "ref": "A00879",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.570638,
+          44.0058074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9396526487,
+        "tipo": "fermata_bus",
+        "name": "Gaiofana",
+        "ref": "A00836",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5705366,
+          44.0055828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9396526488,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5465504,
+          44.0126267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9396526489,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5460678,
+          44.0120835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9396526490,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5441901,
+          44.013819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9952941454,
+        "tipo": "fermata_bus",
+        "name": "Santa Giustina",
+        "ref": "A00729",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4826758,
+          44.0684988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9952941455,
+        "tipo": "fermata_bus",
+        "name": "Santa Giustina",
+        "ref": "A00724",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4833497,
+          44.0686786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953151212,
+        "tipo": "fermata_bus",
+        "name": "Celle - Cimitero",
+        "ref": "A00282",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5459393,
+          44.0692876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953213101,
+        "tipo": "fermata_bus",
+        "name": "P.le Vannoni",
+        "ref": "A00286",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5605977,
+          44.0665099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953213102,
+        "tipo": "fermata_bus",
+        "name": "P.le Vannoni",
+        "ref": "A00706",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5603026,
+          44.066558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953213103,
+        "tipo": "fermata_bus",
+        "name": "Matteotti, 28",
+        "ref": "A00287",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5647646,
+          44.0662234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953213104,
+        "tipo": "fermata_bus",
+        "name": "Matteotti",
+        "ref": "A00705",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5646441,
+          44.0663318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953213105,
+        "tipo": "fermata_bus",
+        "name": "Rimini Darsena",
+        "ref": "A00239",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5695961,
+          44.0742901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953493247,
+        "tipo": "fermata_bus",
+        "name": "Palacongressi",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5671321,
+          44.0497156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953493248,
+        "tipo": "fermata_bus",
+        "name": "Palacongressi",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5681968,
+          44.0502636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953493249,
+        "tipo": "fermata_bus",
+        "name": "Alessandrini",
+        "ref": "A00421",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5604471,
+          44.0447151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953493250,
+        "tipo": "fermata_bus",
+        "name": "Alessandrini",
+        "ref": "A00462",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5610773,
+          44.0450636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953493251,
+        "tipo": "fermata_bus",
+        "name": "Fiera - Eridano",
+        "ref": "A00463",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5623945,
+          44.0461073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953493252,
+        "tipo": "fermata_bus",
+        "name": "Fiera - Eridano",
+        "ref": "A00420",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5619723,
+          44.0458483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953493253,
+        "tipo": "fermata_bus",
+        "name": "Ina Casa",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5502839,
+          44.0608504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953493256,
+        "tipo": "fermata_bus",
+        "name": "Ina Casa",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5503462,
+          44.0606618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953493288,
+        "tipo": "fermata_bus",
+        "name": "San Fortunato",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.544073,
+          44.0302739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9953493289,
+        "tipo": "fermata_bus",
+        "name": "San Fortunato",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5437498,
+          44.0302769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9954133527,
+        "tipo": "fermata_bus",
+        "name": "Covignano Crucis",
+        "ref": "A00351",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5509707,
+          44.0405818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9954133528,
+        "tipo": "fermata_bus",
+        "name": "Del Cerreto",
+        "ref": "A00392",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5466211,
+          44.0319578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9954133529,
+        "tipo": "fermata_bus",
+        "name": "Del Cerreto",
+        "ref": "A00362",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5464747,
+          44.0319315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9954762363,
+        "tipo": "fermata_bus",
+        "name": "Villaggio Azzurro",
+        "ref": "A00255",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5495934,
+          44.0569153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9954762364,
+        "tipo": "fermata_bus",
+        "name": "Marecchiese Ausa",
+        "ref": "A00518",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5461713,
+          44.0567225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9954762365,
+        "tipo": "fermata_bus",
+        "name": "Marecchiese Ausa",
+        "ref": "A00517",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5463195,
+          44.05663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9954762366,
+        "tipo": "fermata_bus",
+        "name": "Marecchiese Cagni",
+        "ref": "A00180",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5525409,
+          44.0569285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9954762367,
+        "tipo": "fermata_bus",
+        "name": "Marecchiese - Orsi",
+        "ref": "A00188",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5535092,
+          44.0569589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9954776801,
+        "tipo": "fermata_bus",
+        "name": "Corpolò",
+        "ref": "A00981",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4522397,
+          44.0192744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9955442640,
+        "tipo": "fermata_bus",
+        "name": "Pianazzo",
+        "ref": "A00446",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5511564,
+          44.0261092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9955442651,
+        "tipo": "fermata_bus",
+        "name": "Della Gazzella",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5571663,
+          44.0353877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9955643835,
+        "tipo": "fermata_bus",
+        "name": "Gesualda",
+        "ref": "A00921",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5990268,
+          44.0092982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9955643836,
+        "tipo": "fermata_bus",
+        "name": "Gesualda",
+        "ref": "A00912",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5989008,
+          44.009165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9955643842,
+        "tipo": "fermata_bus",
+        "name": "Osteria del Fiume",
+        "ref": "A00868",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6029005,
+          43.9968818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9955643843,
+        "tipo": "fermata_bus",
+        "name": "Osteria del Fiume",
+        "ref": "A00918",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6028127,
+          43.9966846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9955643844,
+        "tipo": "fermata_bus",
+        "name": "S. Salvatore Chiesa",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5859517,
+          43.9904149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9955643845,
+        "tipo": "fermata_bus",
+        "name": "S. Salvatore Chiesa",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5866205,
+          43.9905436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9955643846,
+        "tipo": "fermata_bus",
+        "name": "Bivio S. Salvatore",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5832576,
+          43.9911295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9955643847,
+        "tipo": "fermata_bus",
+        "name": "Ghetto Casette",
+        "ref": "A00849",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5810476,
+          43.9901045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9955643849,
+        "tipo": "fermata_bus",
+        "name": "Ghetto Casette",
+        "ref": "A00846",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.580768,
+          43.9901466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10004172191,
+        "tipo": "fermata_bus",
+        "name": "Rimini FS",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5731879,
+          44.0638264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10249851679,
+        "tipo": "fermata_bus",
+        "name": "Marzabotto",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5539018,
+          44.0534978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10555069261,
+        "tipo": "fermata_bus",
+        "name": "Corpolò",
+        "ref": "A00991",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4519595,
+          44.0186698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10556394696,
+        "tipo": "fermata_bus",
+        "name": "Cupa",
+        "ref": "973",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4578592,
+          44.0230867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10556394697,
+        "tipo": "fermata_bus",
+        "name": "Cupa",
+        "ref": "990",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4595946,
+          44.0242901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557036807,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5443151,
+          44.0567301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557036808,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5439624,
+          44.0566099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557107242,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.536013,
+          44.0564062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557107243,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5355094,
+          44.0564974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557107272,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5332477,
+          44.0563033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557107273,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5332769,
+          44.0563915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557127334,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5127125,
+          44.0517393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557127337,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5120373,
+          44.0516929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557127353,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5050593,
+          44.0490567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557127355,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5048841,
+          44.0491692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557133853,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5311067,
+          44.0562139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557133854,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5303607,
+          44.0563047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557133868,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5172259,
+          44.0532695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10557133869,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5169519,
+          44.0530163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10559055185,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4997889,
+          44.046054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10559055186,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4997163,
+          44.0461666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10647457042,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5369333,
+          44.0836779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10647457043,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5368664,
+          44.08362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10647457044,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5368119,
+          44.0835802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10647457045,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.536765,
+          44.0835466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703093677,
+        "tipo": "fermata_bus",
+        "name": "Dante-S.Girolamo",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5723934,
+          44.0621742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703093678,
+        "tipo": "fermata_bus",
+        "name": "Duomo",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5702727,
+          44.0602438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703093679,
+        "tipo": "fermata_bus",
+        "name": "Alberti",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5699224,
+          44.0596332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703093680,
+        "tipo": "fermata_bus",
+        "name": "Serpieri",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5699192,
+          44.0584251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703093700,
+        "tipo": "fermata_bus",
+        "name": "Bramante",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5677859,
+          44.0545518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703093701,
+        "tipo": "fermata_bus",
+        "name": "Rosaspina",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5656895,
+          44.0528971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703093702,
+        "tipo": "fermata_bus",
+        "name": "Acquario-Lince",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5649014,
+          44.0511464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703093703,
+        "tipo": "fermata_bus",
+        "name": "Acquario-Ariete",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5633512,
+          44.0499552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703093704,
+        "tipo": "fermata_bus",
+        "name": "Ariete-Cigno",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5622005,
+          44.0499068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703111305,
+        "tipo": "fermata_bus",
+        "name": "Ariete-Castore",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5601315,
+          44.0513677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703111306,
+        "tipo": "fermata_bus",
+        "name": "Covignano-Vega",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5582748,
+          44.0513506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703111307,
+        "tipo": "fermata_bus",
+        "name": "Covignano-Pioppo",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5568567,
+          44.0500479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703111308,
+        "tipo": "fermata_bus",
+        "name": "Covignano-Massera",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5552344,
+          44.0485573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703111339,
+        "tipo": "fermata_bus",
+        "name": "Crocifisso chiesa",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5532177,
+          44.0483468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703111340,
+        "tipo": "fermata_bus",
+        "name": "Crocifisso",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5517192,
+          44.0500339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703111341,
+        "tipo": "fermata_bus",
+        "name": "Di Mezzo-Sbrozzi",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5513783,
+          44.0512114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10703111342,
+        "tipo": "fermata_bus",
+        "name": "Di Mezzo-Boninsegni",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5529356,
+          44.0519852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704378750,
+        "tipo": "fermata_bus",
+        "name": "Anagrafe",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5525381,
+          44.0548187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704378751,
+        "tipo": "fermata_bus",
+        "name": "Marzabotto-Varsavia",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5516318,
+          44.0560153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704378752,
+        "tipo": "fermata_bus",
+        "name": "Villaggio Azzurro",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.549921,
+          44.0570946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704378755,
+        "tipo": "fermata_bus",
+        "name": "Magellano 1",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5479244,
+          44.0572778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704378756,
+        "tipo": "fermata_bus",
+        "name": "Magellano 2",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5477851,
+          44.058598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704378757,
+        "tipo": "fermata_bus",
+        "name": "Volontario",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5467059,
+          44.0599482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704378759,
+        "tipo": "fermata_bus",
+        "name": "Luigi Nicolò",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5468921,
+          44.0613285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704378761,
+        "tipo": "fermata_bus",
+        "name": "Largo Bordoni",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5489296,
+          44.0614984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704593727,
+        "tipo": "fermata_bus",
+        "name": "Provincia",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5524103,
+          44.0598967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704593728,
+        "tipo": "fermata_bus",
+        "name": "Pozzo romano",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.555294,
+          44.0588006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704593729,
+        "tipo": "fermata_bus",
+        "name": "Campana-Abruzzi",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5582945,
+          44.0582367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704593730,
+        "tipo": "fermata_bus",
+        "name": "Campana-Cecchi",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5603586,
+          44.058672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704593731,
+        "tipo": "fermata_bus",
+        "name": "Campana-Valturio",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5625458,
+          44.0588741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704593732,
+        "tipo": "fermata_bus",
+        "name": "Circ. meridionale-Cignani",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5650378,
+          44.0567541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704593734,
+        "tipo": "fermata_bus",
+        "name": "Circ. meridionale 74",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.567511,
+          44.0561213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704593735,
+        "tipo": "fermata_bus",
+        "name": "Arco d'Augusto",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5708463,
+          44.0560499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10704593736,
+        "tipo": "fermata_bus",
+        "name": "3 Dante",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5724742,
+          44.062013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705438198,
+        "tipo": "fermata_bus",
+        "name": "Zavagli-Balena",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5632804,
+          44.0743119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705438199,
+        "tipo": "fermata_bus",
+        "name": "Ortigara",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565431,
+          44.0745913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705438201,
+        "tipo": "fermata_bus",
+        "name": "Ortigara 37",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5679109,
+          44.0743139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705438203,
+        "tipo": "fermata_bus",
+        "name": "Lando-Tartaglia",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5692859,
+          44.0726882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705438204,
+        "tipo": "fermata_bus",
+        "name": "Lando-Brandolino",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5685619,
+          44.0715541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705461418,
+        "tipo": "fermata_bus",
+        "name": "Marzabotto",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5539156,
+          44.0532509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492505,
+        "tipo": "fermata_bus",
+        "name": "Lando-Colleoni",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5675435,
+          44.0700152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492506,
+        "tipo": "fermata_bus",
+        "name": "6 P. Resistenza",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5685128,
+          44.0683154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492507,
+        "tipo": "fermata_bus",
+        "name": "Clementini",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5732286,
+          44.061912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492508,
+        "tipo": "fermata_bus",
+        "name": "Gramsci S. Rita",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5732529,
+          44.0592767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492509,
+        "tipo": "fermata_bus",
+        "name": "Circ. meridionale 76",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5668478,
+          44.0561957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492510,
+        "tipo": "fermata_bus",
+        "name": "Circ. meridionale-Cignani",
+        "ref": "A01021",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565283,
+          44.0566782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492511,
+        "tipo": "fermata_bus",
+        "name": "Circ. occidentale-Bertuzzi",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5639248,
+          44.0582302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492512,
+        "tipo": "fermata_bus",
+        "name": "Campana-Valturio",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5620018,
+          44.0589578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492513,
+        "tipo": "fermata_bus",
+        "name": "Campana-Cecchi",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5601547,
+          44.0587023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492514,
+        "tipo": "fermata_bus",
+        "name": "Campana-Abruzzi",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5579642,
+          44.0583455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492515,
+        "tipo": "fermata_bus",
+        "name": "Pozzo romano",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5551195,
+          44.0589742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492516,
+        "tipo": "fermata_bus",
+        "name": "Provincia",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5520571,
+          44.0601451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492517,
+        "tipo": "fermata_bus",
+        "name": "Largo Bordoni",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5489761,
+          44.0617635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492518,
+        "tipo": "fermata_bus",
+        "name": "Luigi Nicolò",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5468462,
+          44.0615169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492519,
+        "tipo": "fermata_bus",
+        "name": "Antonelli 1",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5462108,
+          44.0592571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492520,
+        "tipo": "fermata_bus",
+        "name": "Antonelli 2",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.546422,
+          44.0571252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492521,
+        "tipo": "fermata_bus",
+        "name": "Marzabotto-Varsavia",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5515634,
+          44.0557827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10705492541,
+        "tipo": "fermata_bus",
+        "name": "Anagrafe",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5527838,
+          44.0542751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830569,
+        "tipo": "fermata_bus",
+        "name": "Jano Planco-Aldo Moro",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5547414,
+          44.0525976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830570,
+        "tipo": "fermata_bus",
+        "name": "Jano Planco",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5564453,
+          44.0514592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830571,
+        "tipo": "fermata_bus",
+        "name": "Panzini-Albero",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5587041,
+          44.0499368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830572,
+        "tipo": "fermata_bus",
+        "name": "Abete",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5589904,
+          44.0483915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830573,
+        "tipo": "fermata_bus",
+        "name": "Quagliati",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5566503,
+          44.0476467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830583,
+        "tipo": "fermata_bus",
+        "name": "Fontemaggi",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5543778,
+          44.0473829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830584,
+        "tipo": "fermata_bus",
+        "name": "Covignano-Massera",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5555001,
+          44.048628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830585,
+        "tipo": "fermata_bus",
+        "name": "Covignano-Pioppo",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.557114,
+          44.0500739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830586,
+        "tipo": "fermata_bus",
+        "name": "Covignano-Vega",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5588508,
+          44.0516565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830587,
+        "tipo": "fermata_bus",
+        "name": "Ariete-Castore",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5600404,
+          44.0512845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830588,
+        "tipo": "fermata_bus",
+        "name": "Ariete-Cigno",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5621685,
+          44.0497935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830589,
+        "tipo": "fermata_bus",
+        "name": "Acquario-Ariete",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5631766,
+          44.0496472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830590,
+        "tipo": "fermata_bus",
+        "name": "Acquario-Lince",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5650567,
+          44.051048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830591,
+        "tipo": "fermata_bus",
+        "name": "Rosaspina",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5658877,
+          44.0528311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706830592,
+        "tipo": "fermata_bus",
+        "name": "Bramante-Rosaspina",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5662433,
+          44.0540228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706891118,
+        "tipo": "fermata_bus",
+        "name": "5 Ravegnani",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5696705,
+          44.0653439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706891119,
+        "tipo": "fermata_bus",
+        "name": "Borgatti",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5631054,
+          44.0671929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706891120,
+        "tipo": "fermata_bus",
+        "name": "Treves",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5614215,
+          44.0682463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706891121,
+        "tipo": "fermata_bus",
+        "name": "Zavagli-Sempione",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5599298,
+          44.0694234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706891122,
+        "tipo": "fermata_bus",
+        "name": "Zavagli-Monferrato",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5612219,
+          44.0715121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10706891123,
+        "tipo": "fermata_bus",
+        "name": "Zavagli-Tonini",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5623125,
+          44.0730078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087031,
+        "tipo": "fermata_bus",
+        "name": "Villaggio I maggio 1",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5742508,
+          44.0355583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087033,
+        "tipo": "fermata_bus",
+        "name": "Villaggio I maggio 2",
+        "ref": "",
+        "operator": "",
+        "network": "Start Romagna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5732166,
+          44.0345322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087038,
+        "tipo": "fermata_bus",
+        "name": "Lamone",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5707426,
+          44.032077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087039,
+        "tipo": "fermata_bus",
+        "name": "Motorizzazione",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5691593,
+          44.0305204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087040,
+        "tipo": "fermata_bus",
+        "name": "Ca' Sabbioni",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5675235,
+          44.0288695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087041,
+        "tipo": "fermata_bus",
+        "name": "Neri",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5654141,
+          44.0259561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087042,
+        "tipo": "fermata_bus",
+        "name": "Bivio Maceri",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5653371,
+          44.0230147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087043,
+        "tipo": "fermata_bus",
+        "name": "Ca' del Drago",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683651,
+          44.0195595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087044,
+        "tipo": "fermata_bus",
+        "name": "Bivio Masere",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5692558,
+          44.0166246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087045,
+        "tipo": "fermata_bus",
+        "name": "Des Vergers",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5698434,
+          44.0129605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087046,
+        "tipo": "fermata_bus",
+        "name": "Ca' Ferrari",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.570256,
+          44.0076196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087047,
+        "tipo": "fermata_bus",
+        "name": "Montescudo 371",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5720052,
+          44.0011855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10708087048,
+        "tipo": "fermata_bus",
+        "name": "Scardi",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5719285,
+          43.9957015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10858825613,
+        "tipo": "fermata_bus",
+        "name": "Colonnella",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5824122,
+          44.0466718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10858825614,
+        "tipo": "fermata_bus",
+        "name": "Colonnella",
+        "ref": "",
+        "operator": "Start Romagna",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5828405,
+          44.0461468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11032986852,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5293419,
+          44.0916519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11041902200,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5391271,
+          44.0875652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11041902201,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.535857,
+          44.0871585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11041902202,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5300697,
+          44.0910494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11069094843,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5890565,
+          44.0424581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11069094849,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5883125,
+          44.0430489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11069129317,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5903519,
+          44.0430443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11075138842,
+        "tipo": "fermata_bus",
+        "name": "Gioia - Cappellini",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5755512,
+          44.0719626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11093005909,
+        "tipo": "fermata_bus",
+        "name": "Castellaccio",
+        "ref": "A00401",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5518993,
+          44.0379165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11093005910,
+        "tipo": "fermata_bus",
+        "name": "Castellaccio",
+        "ref": "A00352",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.551736,
+          44.037822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11131967555,
+        "tipo": "fermata_bus",
+        "name": "26",
+        "ref": "4;5",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5177309,
+          44.0997159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11185170811,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5743955,
+          44.0618868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11187279517,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5801867,
+          44.0398898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11208783576,
+        "tipo": "fermata_bus",
+        "name": "Piazza Tre Martiri",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5682409,
+          44.0593919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11208783577,
+        "tipo": "fermata_bus",
+        "name": "Porto",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5755605,
+          44.0767753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11208783578,
+        "tipo": "fermata_bus",
+        "name": "Piazzale Kennedy",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5815661,
+          44.0669983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11210881570,
+        "tipo": "fermata_bus",
+        "name": "Italia in Miniatura",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5134463,
+          44.0895706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11210881571,
+        "tipo": "fermata_bus",
+        "name": "John Lennon",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5314587,
+          44.0810782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11210889160,
+        "tipo": "fermata_bus",
+        "name": "Piazza Dossi",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5333035,
+          44.0879392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11210889161,
+        "tipo": "fermata_bus",
+        "name": "Sacramora-Morri",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5335509,
+          44.0854109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11210889162,
+        "tipo": "fermata_bus",
+        "name": "Sacramora Villa",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5374535,
+          44.0826351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11210889163,
+        "tipo": "fermata_bus",
+        "name": "Barzilai",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5395955,
+          44.0811084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11210889164,
+        "tipo": "fermata_bus",
+        "name": "Sacram.-Bordoni",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5421529,
+          44.0793401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11210889165,
+        "tipo": "fermata_bus",
+        "name": "Sacramora-Mass.",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5471824,
+          44.0759494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11210889166,
+        "tipo": "fermata_bus",
+        "name": "Celle Portici",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5506959,
+          44.0686861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216151507,
+        "tipo": "fermata_bus",
+        "name": "Sacram.-Bordoni",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.541605,
+          44.0795244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216151508,
+        "tipo": "fermata_bus",
+        "name": "Sacramora Villa",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5375531,
+          44.0824825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216151509,
+        "tipo": "fermata_bus",
+        "name": "Sacramora-Morri",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5330709,
+          44.0856359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216151510,
+        "tipo": "fermata_bus",
+        "name": "Piazza Dossi",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5326387,
+          44.0875846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216151511,
+        "tipo": "fermata_bus",
+        "name": "Orsoleto-Variano",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.486904,
+          44.083772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216151512,
+        "tipo": "fermata_bus",
+        "name": "Orsoleto-Cotignola",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4818256,
+          44.084573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216151513,
+        "tipo": "fermata_bus",
+        "name": "Tolemaide-Orsoleto",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4769745,
+          44.0870994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216151514,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.48594,
+          44.0970575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216151515,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5069023,
+          44.0935472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216174140,
+        "tipo": "fermata_bus",
+        "name": "Dei Mille,20",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5686772,
+          44.0644928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216174141,
+        "tipo": "fermata_bus",
+        "name": "San Bernardo",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5570317,
+          44.0671693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216174142,
+        "tipo": "fermata_bus",
+        "name": "Celle Vincini",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5530734,
+          44.0680452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216174143,
+        "tipo": "fermata_bus",
+        "name": "Celle Portici",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5503461,
+          44.0686449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216174144,
+        "tipo": "fermata_bus",
+        "name": "Cimitero",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5515356,
+          44.0728583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216174145,
+        "tipo": "fermata_bus",
+        "name": "Sacramora-Mass.",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5474238,
+          44.0756534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11216174146,
+        "tipo": "fermata_bus",
+        "name": "Sacramora-Ferri",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5453121,
+          44.0770493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11341266886,
+        "tipo": "fermata_bus",
+        "name": "13 XXV Marzo",
+        "ref": "13",
+        "operator": "Amrimini",
+        "network": "900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5523035,
+          44.0786775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11557024006,
+        "tipo": "fermata_bus",
+        "name": "Perseo",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5712509,
+          44.0669347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11557024007,
+        "tipo": "fermata_bus",
+        "name": "Perseo",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5708292,
+          44.0670459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11582612341,
+        "tipo": "fermata_bus",
+        "name": "Shuttle to San marino",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5717172,
+          44.0644391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11754908548,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5554708,
+          44.0308392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11756691094,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5338098,
+          44.0886456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11861781183,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5761061,
+          44.0506707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11883251216,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6028397,
+          44.0340666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12098370965,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4588586,
+          44.0831063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12150590694,
+        "tipo": "fermata_bus",
+        "name": "27",
+        "ref": "27",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5152154,
+          44.101889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12150590695,
+        "tipo": "fermata_bus",
+        "name": "27",
+        "ref": "27",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5155554,
+          44.1014966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12192683301,
+        "tipo": "fermata_bus",
+        "name": "Del Camoscio",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5550333,
+          44.0361108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12294127310,
+        "tipo": "stazione_ferroviaria",
+        "name": "Rimini",
+        "ref": "",
+        "operator": "RFI",
+        "network": "RFI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5738207,
+          44.0639662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12307655401,
+        "tipo": "fermata_bus",
+        "name": "Sauro-Pola",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5788366,
+          44.0653744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12395622808,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5337466,
+          44.0520821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12395622809,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5339906,
+          44.052093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12444567330,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.564496,
+          44.0462186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12444567331,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5648304,
+          44.0457563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12558553202,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6218789,
+          44.026021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12558564201,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6238958,
+          44.0248349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12558564301,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.624265,
+          44.0244817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12559256624,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6217088,
+          44.0262467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12761715226,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5240363,
+          44.0741639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12785289767,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5649419,
+          44.063278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12848291676,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6047379,
+          44.0363915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12898683806,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5369991,
+          44.0521791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12898683807,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.536818,
+          44.0522265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12958807628,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5608197,
+          44.0508817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12960560330,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5385212,
+          44.0712951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12979176595,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5781877,
+          44.0399827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12979176596,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5786896,
+          44.0397695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12979176597,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5800262,
+          44.0399891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12979176600,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5770862,
+          44.0407315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12979186301,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5772746,
+          44.0407469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12996842504,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5601503,
+          44.0349869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12996842505,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5602767,
+          44.0349453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13059438102,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6092011,
+          44.0416076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13064780338,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6092964,
+          44.0416942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13064876173,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5790102,
+          44.0472039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13064876174,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5776013,
+          44.0464834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13070252970,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5715851,
+          44.0541209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13070252971,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5717884,
+          44.054101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13075503790,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5960183,
+          44.0546794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13091942435,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5741342,
+          44.0474545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13091942436,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5745751,
+          44.047282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13093830777,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5489172,
+          44.0809236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13103078665,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.538775,
+          44.0839426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13103088505,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5349542,
+          44.0844269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13103088506,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5351081,
+          44.0841815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13105271322,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5164574,
+          44.0734235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13105271323,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5159144,
+          44.0732639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13105271324,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5230787,
+          44.0775349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13105271325,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5207919,
+          44.0760242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13337823501,
+        "tipo": "fermata_bus",
+        "name": "Praga - Verga",
+        "ref": "A00157",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5869493,
+          44.0565283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13355202476,
+        "tipo": "fermata_bus",
+        "name": "Praga - Tulipano",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5884667,
+          44.0552315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13355279372,
+        "tipo": "fermata_bus",
+        "name": "Como - Chiasso",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5910516,
+          44.0594718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13358795071,
+        "tipo": "fermata_bus",
+        "name": "Pascoli - Gabelli",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5855447,
+          44.0561522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13358795077,
+        "tipo": "fermata_bus",
+        "name": "Pascoli - Tenca",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5861857,
+          44.0566913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13397025372,
+        "tipo": "fermata_bus",
+        "name": "Praga - Lipparini",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588896,
+          44.0546049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13563599995,
+        "tipo": "fermata_bus",
+        "name": "",
+        "ref": "",
+        "operator": "",
+        "network": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5877595,
+          44.0492642
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6805720750,
+        "tipo": "stazione_meteo",
+        "name": "Vergiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5005437,
+          44.0345163
+        ]
+      }
+    }
+  ]
+}

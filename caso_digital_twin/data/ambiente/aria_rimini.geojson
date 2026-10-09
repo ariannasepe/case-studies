@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 227728065,
+        "tipo": "fonte_emissione",
+        "name": "Gep Carburanti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5543639,
+          44.0378566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 227889447,
+        "tipo": "fonte_emissione",
+        "name": "ENI station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5746547,
+          44.0615064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 227908984,
+        "tipo": "fonte_emissione",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.488226,
+          44.104533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 228022287,
+        "tipo": "fonte_emissione",
+        "name": "Q8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.490643,
+          44.040778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 228038142,
+        "tipo": "fonte_emissione",
+        "name": "IP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5511155,
+          44.0684006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 228283892,
+        "tipo": "fonte_emissione",
+        "name": "Eni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.516335,
+          44.053074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 282543885,
+        "tipo": "fonte_emissione",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.603083,
+          43.9908115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1871562392,
+        "tipo": "fonte_emissione",
+        "name": "Q8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6066827,
+          44.0313613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2503174199,
+        "tipo": "fonte_emissione",
+        "name": "Paganelli carburanti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4732274,
+          44.0664173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3666154630,
+        "tipo": "fonte_emissione",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.545423,
+          44.0102875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5045028493,
+        "tipo": "fonte_emissione",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5927072,
+          44.0388773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5045058654,
+        "tipo": "fonte_emissione",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4970666,
+          44.0992852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5176071201,
+        "tipo": "fonte_emissione",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5571142,
+          44.0672977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5851831617,
+        "tipo": "fonte_emissione",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5196075,
+          44.0694933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5851832206,
+        "tipo": "fonte_emissione",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5295858,
+          44.0560362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5851832219,
+        "tipo": "fonte_emissione",
+        "name": "Eni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4959294,
+          44.1065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5851832978,
+        "tipo": "fonte_emissione",
+        "name": "Repsol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5569322,
+          44.0510173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5851834910,
+        "tipo": "fonte_emissione",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5241748,
+          44.0953056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5851836083,
+        "tipo": "fonte_emissione",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5460729,
+          44.0186546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5851836441,
+        "tipo": "fonte_emissione",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5548852,
+          44.0567871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5851837334,
+        "tipo": "fonte_emissione",
+        "name": "Ego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.538951,
+          44.0816478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5851845216,
+        "tipo": "fonte_emissione",
+        "name": "Tamoil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5813882,
+          44.0321506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5851845575,
+        "tipo": "fonte_emissione",
+        "name": "Tamoil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5404288,
+          44.068537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5853344450,
+        "tipo": "fonte_emissione",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.595114,
+          44.0151384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5853344610,
+        "tipo": "fonte_emissione",
+        "name": "PB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5720117,
+          44.0665894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5885663002,
+        "tipo": "fonte_emissione",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4815644,
+          44.0921749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6805720750,
+        "tipo": "stazione_monitoraggio",
+        "name": "Vergiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5005437,
+          44.0345163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9051332867,
+        "tipo": "fonte_emissione",
+        "name": "Gep Carburanti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.484601,
+          44.0963634
+        ]
+      }
+    }
+  ]
+}
