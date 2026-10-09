@@ -5,8 +5,8 @@ import streamlit as st
 # ── Immagini ─────────────────────────────────────────────────────────────────
 # Link https://... oppure nome file in caso_analisi_energetica/immagini/
 IMMAGINI = {
-    "Mappa - Rapporto tra produzione FER comunale e consumi elettrici comunali (2015)": r"C:\Users\ary20\OneDrive\Desktop\SBL\pagina case studies html\caso_analisienergetica\Screenshot 2026-07-24 175200.png",
-    "Mappa - Produzione elettrica di biomasse totali regionali (2023)": r"C:\Users\ary20\OneDrive\Desktop\SBL\pagina case studies html\caso_analisienergetica\Screenshot 2026-07-24 175259.png",
+    "Mappa - Rapporto tra produzione FER comunale e consumi elettrici comunali (2015)": "immagini/",
+    "Mappa - Produzione elettrica di biomasse totali regionali (2023)": "immagini/",
 }
 
 
