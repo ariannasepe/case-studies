@@ -1,14 +1,6 @@
 """
 Pagina Casi Studio — scheletro Streamlit
 =========================================
-Scheletro della pagina interattiva per la divulgazione dei casi studio e dei
-principali risultati di ricerca. Stessa base grafica (palette, font, CSS,
-sidebar, header) della dashboard di riferimento.
-
-Un'unica sezione, "Casi Studio": la pagina si apre sull'header e i casi si
-scelgono dal menù a tendina nella sidebar (si può scorrere o scrivere il nome).
-Ogni caso ha titolo, breve descrizione (Markdown) e il proprio contenuto.
-
 Avvio:  streamlit run cases.py
 """
 
@@ -241,7 +233,7 @@ section[data-testid="stSidebar"] div[role="radiogroup"] label:has(input:checked)
 
 /* Header nativo */
 header[data-testid="stHeader"] { background: transparent !important; }
-#MainMenu { visibility: hidden; }
+#Mainu { visibility: hidden; }
 footer { visibility: hidden; }
 
 /* ── Main header ── */
@@ -429,6 +421,24 @@ div[data-baseweb="popover"] [role="option"][aria-selected="true"] {
     background-color: rgba(255, 255, 255, 0.12) !important;
 }
 div[data-testid="stTextInput"] input::placeholder { color: #7f99a8 !important; -webkit-text-fill-color: #7f99a8 !important; }
+
+/* Menu a tendina selectbox: testo bianco su sfondo scuro, indipendente dal tema */
+div[data-baseweb="popover"],
+div[data-baseweb="popover"] *,
+[data-testid="stSelectboxVirtualDropdown"],
+[data-testid="stSelectboxVirtualDropdown"] * {
+    color: #FFFFFF !important;
+    -webkit-text-fill-color: #FFFFFF !important;
+}
+div[data-baseweb="popover"] ul,
+div[data-baseweb="popover"] [role="option"],
+[data-testid="stSelectboxVirtualDropdown"] {
+    background-color: #25465D !important;
+}
+div[data-baseweb="popover"] [role="option"]:hover,
+div[data-baseweb="popover"] [role="option"][aria-selected="true"] {
+    background-color: #1a6a9a !important;
+}
 </style>
 """.replace("__FONT_URL__", FONT.replace(" ", "+")).replace("__FONT__", FONT), unsafe_allow_html=True)
 
@@ -436,19 +446,7 @@ div[data-testid="stTextInput"] input::placeholder { color: #7f99a8 !important; -
 # ══════════════════════════════════════════════════════════════════════════
 # CASI STUDIO
 # ══════════════════════════════════════════════════════════════════════════
-# Un blocco { ... } per ogni caso studio, separati da virgola.
-# Campi facoltativi (si possono lasciare vuoti o togliere): studio, luogo, anno, link.
-#
-# "contenuto" è l'elenco, nell'ordine in cui vengono mostrati, di:
-#     {"immagini": ["immagini/a.jpg", "immagini/b.jpg"]}   1 o 2 immagini affiancate (file o URL)
-#     {"testo": """testo in Markdown"""}
-# Ogni blocco può avere in più un titoletto:  {"titolo": "Titolo", "immagini": [...]}
-# Le immagini possono avere una larghezza propria (% della card):  {"larghezza": 60, "immagini": [...]}
-# e un allineamento proprio:  {"allineamento": "sinistra", "immagini": [...]}
-# Si possono ripetere quanti se ne vuole: es. foto, testo, foto, testo, foto...
-# Ogni caso può avere una "descrizione": breve testo in Markdown mostrato subito dopo il titolo.
-# Da chiuso il caso mostra fino al primo testo (in anteprima); "Leggi tutto" mostra il resto.
-# Per vedere sempre tutto senza pulsante, aggiungi  "leggi_tutto": False.
+
 CASI_STUDIO = [
     {
         "titolo": "MOBILITÀ E ATTRATTIVITÀ CULTURALE",
